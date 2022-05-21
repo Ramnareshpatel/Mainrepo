@@ -1,6 +1,7 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Sᴇᴇ Mʏ Pᴏᴡᴇʀ.😀
+
 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>會؄𝚂𝚄𝚁𝙰𝙹؄會</a></b>"""
     COMMANDS_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Hᴇʟᴘ Mᴏᴅᴜʟᴇ ⍟
 
