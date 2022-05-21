@@ -2,8 +2,11 @@ class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Sᴇᴇ Mʏ Pᴏᴡᴇʀ.😀
 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>會؄𝚂𝚄𝚁𝙰𝙹؄會</a></b>"""
-    COMMANDS_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+    COMMANDS_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Hᴇʟᴘ Mᴏᴅᴜʟᴇ ⍟
+
+• Iᴛ's Nᴏᴛ Cᴏᴍᴘʟɪᴄᴀᴛᴇᴅ....🤓
+• Dᴏɴ'ᴛ Sᴘᴀᴍ Mᴇ...🤒
+• Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Cᴏᴍᴍᴀɴᴅs...</b>😍."""
     ABOUT_TXT = """<b>❍ Mʏ Nᴀᴍᴇ: {}
 ❍ Cʀᴇᴀᴛᴇʀ: <a href=https://t.me/KingOf_univers>會؄𝚂𝚄𝚁𝙰𝙹؄會</a>
 ❍ Lɪʙʀᴀʀʏ: Pʀᴏɢʀᴀᴍ
