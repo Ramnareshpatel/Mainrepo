@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/BalamuruganDV/LUNA-EXTRA-FEATURES",
-    "repository": "https://github.com/BalamuruganDV/LUNA-EXTRA-FEATURES",
+    "website": "https://github.com/Ramnareshpatel/mainrepo",
+    "repository": "https://github.com/Ramnareshpatel/mainrepo",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
