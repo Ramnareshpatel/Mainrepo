@@ -9,7 +9,7 @@ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>會؄𝚂𝚄�
 • Dᴏɴ'ᴛ Sᴘᴀᴍ Mᴇ...🤒
 • Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Cᴏᴍᴍᴀɴᴅs...😍.
 
-Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ: @Movies4youbackup ⚔️</b>"""
+Jᴏɪɴ: @Movies4youbackup ⚔️</b>"""
     ABOUT_TXT = """<b>❍ Mʏ Nᴀᴍᴇ: {}
 ❍ Cʀᴇᴀᴛᴇʀ: <a href=https://t.me/KingOf_univers>會؄𝚂𝚄𝚁𝙰𝙹؄會</a>
 ❍ Lɪʙʀᴀʀʏ: Pʀᴏɢʀᴀᴍ
