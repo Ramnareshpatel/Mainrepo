@@ -33,9 +33,9 @@ Jᴏɪɴ: @Movies4youbackup ⚔️</b></i>"""
 
 ★ Nᴏᴛᴇ :
 
-★ ᴏɴʟʏ ᴅɪɢɪᴛs ᴀʀᴇ ᴀʟʟᴏᴡᴇᴅ.
-★ ᴍᴀxɪᴍᴜᴍ ᴀʟʟᴏᴡᴇᴅ ᴅɪɢɪᴛs ᴛɪʟʟ 84 
-(ɪ ᴄᴀɴ'ᴛ ɢᴇɴᴇʀᴀᴛᴇ ᴘᴀssᴡᴏʀᴅs ᴀʙᴏᴠᴇ ᴛʜᴇ ʟᴇɴɢᴛʜ 84)
+★ Oɴʟʏ Dɪɢɪᴛs Aʀᴇ Aʟʟᴏᴡᴇᴅ.
+★ Mᴀxɪᴍᴜᴍ Aʟʟᴏᴡᴇᴅ Dɪɢɪᴛs Tɪʟʟ 84 
+(I Cᴀɴ'ᴛ Gᴇɴᴇʀᴀᴛᴇ Pᴀssᴡᴏʀᴅs Aʙᴏᴠᴇ Tʜᴇ Lᴇɴɢᴛʜ 84)
  
 ★ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
    /genpw Oʀ /genpasswordij
@@ -64,58 +64,73 @@ Dᴏɴ'ᴛ Wᴏʀʀʏ Sᴇɴᴅ</b></i> /shazam
 - Cᴀɴ Bᴇ Usᴇᴅ Bʏ Eᴠᴇʀʏᴏɴᴇ
 - Wᴏʀᴋ Oɴʟʏ Iɴ Bᴏᴛ Pᴍ
 ★ Bᴜɢ :
-- Sᴏᴍᴛʜɪɴɢ Iᴛ Wɪʟʟ Sʜᴏᴡ Eʀʀᴏʀ!</b></i>"""
+- Sᴏᴍᴛʜɪɴɢ Iᴛ Wɪʟʟ Sʜᴏᴡ Eʀʀᴏʀ!</b></i>
+
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
     IP_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Iᴘ Aᴅᴅʀᴇss Mᴏᴅᴜʟᴇ ⍟</b></i>
 
 <i><b>- Iғ Yᴏᴜ Wᴀɴᴛ Tᴏ Fɪɴᴅ Dᴇᴛᴀɪʟs Oғ A Iᴘ Aᴅᴅʀᴇss Usᴇ Tʜɪs Mᴏᴅᴜʟᴇ.</b></i>
 
 <i><b>★ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 - /ip [Iᴘ Aᴅᴅʀᴇss]
-- ex /ip 192.180.0.1"""
-    WIKI_TXT = """☞𝚆𝙸𝙺𝙸𝙿𝙴𝙳𝙸𝙰 𝙼𝙾𝙳𝚄𝙻𝙴☜
+- ex /ip 192.180.0.1
+
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
+    WIKI_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Wɪᴋɪᴘᴇᴅɪᴀ Mᴏᴅᴜʟᴇ ⍟</b></i>
     
-<b>𝙱𝚈 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚈𝙾𝚄 𝙲𝙰𝙽 𝙶𝙴𝚃 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽 𝙵𝚁𝙾𝙼 𝚆𝙸𝙺𝙸𝙿𝙴𝙳𝙸𝙰</b>
+<i><b>Bʏ Usɪɴɢ Tʜɪs Mᴏᴅᴜʟᴇ Yᴏᴜ Cᴀɴ Gᴇᴛ Iɴғᴏʀᴍᴀᴛɪᴏɴ Fʀᴏᴍ Wɪᴋɪᴘᴇᴅɪᴀ</b></i>
 
-  <b>𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂</b>
+<i><b>★ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
-/wiki 𝚘𝚛 /wikipedia {𝚈𝙾𝚄𝚁_𝚃𝙸𝚃𝚃𝙻𝙴}"""
-    FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
+/wiki 𝚘𝚛 /wikipedia {<b>Yᴏᴜʀ Tɪᴛʟᴇ</b>}
 
-<b>𝙱𝚈 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚂𝚃𝙾𝚁𝙴 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝙼𝚈 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 𝙰𝙽𝙳 𝙸 𝚆𝙸𝙻𝙻 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄 𝙰 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝙻𝙸𝙽𝙺  𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝚃𝙷𝙴 𝚂𝙰𝚅𝙴𝙳 𝙵𝙸𝙻𝙴𝚂.𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰 𝙿𝚄𝙱𝙻𝙸𝙲 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙵𝙸𝙻𝚆 𝙻𝙸𝙽𝙺 𝙾𝙽𝙻𝚈  𝙾𝚁 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰  𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚈𝙾𝚄 𝙼𝚄𝚂𝚃 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽 𝙾𝙽 𝚃𝙷𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝙵𝙸𝙻𝙴𝚂...//</b>
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
+    FILE_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Fɪʟᴇ Sᴛᴏʀᴇ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-⪼ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞 ›
+<i><b>- Bʏ Usɪɴɢ Tʜɪs Mᴏᴅᴜʟᴇ Yᴏᴜ Cᴀɴ Sᴛᴏʀᴇ Fɪʟᴇs Iɴ Mʏ Dᴀᴛᴀʙᴀsᴇ Aɴᴅ I Wɪʟʟ Yᴏᴜ A Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ Tᴏ Aᴄᴄᴇss Tʜᴇ Sᴀᴠᴇᴅ Fɪʟᴇs.Iғ Yᴏᴜ Wᴀɴᴛ Tᴏ Aᴅᴅ Fɪʟᴇs Fʀᴏᴍ ᴀ Pᴜʙʟɪᴄ Cʜᴀɴɴᴇʟ Sᴇɴᴅ Tʜᴇ Tɪʟᴇ Lɪɴᴋ Oɴʟʏ Oʀ Yᴏᴜ Wᴀɴᴛ Tᴏ Sᴛᴏʀᴇ Fɪʟᴇs Fʀᴏᴍ A Pʀɪᴠᴀᴛᴇ Cʜᴀɴɴᴇʟ Yᴏᴜ Mᴜsᴛ Mᴀᴋᴇ Mᴇ Aᴅᴍɪɴ Oɴ Tʜᴇɪʀ Tᴏ Aᴄᴄᴇss Fɪʟᴇs</b></i>
 
-➪ /plink ›› <b>𝚁𝙴𝙿𝙻𝚈 𝚃𝙾 𝙰𝙽𝚈 𝙼𝙴𝙳𝙸𝙰 𝚃𝙾 𝙶𝙴𝚃 𝙻𝙸𝙽𝙺.</b>
-➪ /pbatch ›› <b>𝚄𝚂𝙴 𝚈𝙾𝚄𝚁 𝙼𝙴𝙳𝙸𝙰 𝙻𝙸𝙽𝙺 𝚆𝙸𝚃𝙷 𝚃𝙷𝙸𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳.</b>
-➪ /batch ›› <b>𝚃𝙾 𝙲𝚁𝙴𝙰𝚃𝙴 𝙻𝙸𝙽𝙺 𝙵𝙾𝚁 𝙼𝚄𝙻𝚃𝙸𝙿𝙻𝙴 𝙵𝙸𝙻𝙴𝚂.</b>
+<i><b>★ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
-⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
+➪ /plink ›› <i><b>Rᴇᴘʟʏ Tᴏ Aɴʏ Mᴇᴅɪᴀ Tᴏ Gᴇᴛ Lɪɴᴋ.</b></i>
+➪ /pbatch ›› <i><b>Usᴇ Yᴏᴜʀ Mᴇᴅɪᴀ Lɪɴᴋ Wɪᴛʜ Tʜɪs Cᴏᴍᴍᴀɴᴅ.</b></i>
+➪ /batch ›› <i><b>Tᴏ Cʀᴇᴀᴛᴇ Lɪɴᴋ Fᴏʀ Mᴜʟᴛɪᴘʟᴇ Pᴏsᴛ</b></i>
 
-<code>/batch https://t.me/RBLunainline/3 https://t.me/RBLunainline/8</code>
+<i><b>★ Exᴀᴍᴘʟᴇ :</b></i>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Tamil_moviesdaa><b>𝚃𝙰𝙼𝙸𝙻-𝙼𝙾𝚅𝙸𝙴𝚂</b></a>"""
-    WHOIS_TXT ="""<b>WHOIS MODULE</b>
-Note:- 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄𝚁 𝙳𝙴𝚃𝙰𝙸𝙻𝚂
-•/whois :-give a user full details"""
-    FUN_TXT ="""<b>Gᴀᴍᴇs</b> 
+<code>/batch https://t.me/Movies4youBackup/3 https://t.me/Movies4youBackup/8</code>
+
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
+    WHOIS_TXT ="""<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Wʜᴏɪs Mᴏᴅᴜʟᴇ ⍟</b></i>
+
+<i><b>★ Nᴏᴛᴇ : Gɪᴠᴇ Yᴏᴜʀ Dᴇᴛᴀɪʟs</b></i>
+
+<i><b>★ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
+
+•/whois <i><b>:-Gɪᴠᴇ A Usᴇʀ Fᴜʟʟ Dᴇᴛᴀɪʟs</b></i>"""
+    FUN_TXT ="""<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Gᴀᴍᴇs Mᴏᴅᴜʟᴇ ⍟</b></i> 
     
-<b>⚡ 𝙹𝚄𝚂𝚃 𝚂𝙾𝙼𝙴 𝙺𝙸𝙽𝙳 𝙾𝙵 𝙵𝚄𝙽 𝚃𝙷𝙸𝙽𝙶'𝚂 ⚡</b>
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
  
-𝟣. /dice - 𝚁𝙾𝙻𝙴 𝚃𝙷𝙴 𝙳𝙸𝙲𝙴 
-𝟤. /Throw 𝗈𝗋 /Dart - 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙳𝙰𝚁𝚃 
-3. /Runs - 𝚂𝙾𝙼𝙴 𝚁𝙰𝙽𝙳𝙾𝙼 𝙳𝙸𝙰𝙻𝙾𝙶𝚄𝙴𝚂 
-4. /Goal or /Shoot - 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙰 𝙶𝙾𝙰𝙻 𝙾𝚁 𝚂𝙷𝙾𝙾𝚃
-5. /luck or /cownd - 𝚂𝙿𝙸𝙽 𝙰𝙽𝙳 𝚃𝚁𝚈 𝚈𝙾𝚄𝚁 𝙻𝚄𝙲𝙺"""
-    MANUELFILTER_TXT = """𝙷𝙴𝙻𝙿: <b>𝙼𝙰𝙽𝚄𝙴𝙻𝙵𝙸𝙻𝚃𝙴𝚁</b>
+𝟣. /dice - <i><b>Rᴏʟʟ Tʜᴇ Dɪᴄᴇ</b></i>  
+𝟤. /Throw 𝗈𝗋 /Dart - <i><b>ᴛ𝗈 ᴍᴀᴋ𝖾 ᴅᴀʀᴛ</b></i> 
+3. /Runs - <i><b>Sᴏᴍᴇ Rᴀɴᴅᴏᴍ Dɪᴀʟᴏɢᴜᴇs</b></i> 
+4. /Goal or /Shoot - <i><b>Tᴏ Mᴀᴋᴇ A Gᴏᴀʟ Oʀ Sʜᴏᴏᴛ</b></i>
+5. /luck or /cownd - <i><b>Sᴘɪɴ Tʜᴇ Lᴜᴄᴋʏ Wʜᴇᴇʟ</b></i>
 
-- Filter is the feature were users can set automated replies for a particular keyword and LUNA will respond whenever a keyword is found the message
+<i><b>✯ Wᴀɴᴛ Mᴏʀᴇ Gᴀᴍᴇs ?
 
-<b>NOTE:</b>
-1. LUNA should have admin privillage.
-2. only admins can add filters in a chat.
-3. alert buttons have a limit of 64 characters.
+» Gᴏ atᴏ Pʟᴀʏ Sᴛᴏʀᴇ Oʀ Aᴘᴘ Sᴛᴏʀᴇ Aɴᴅ Dᴏᴡɴʟᴏᴀᴅ Aɴʏ Gᴀᴍᴇ. Dᴏɴ'ᴛ Dɪsᴛᴜʀʙ Mᴇ</b></i> 😜"""
+    MANUELFILTER_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Fɪʟᴛᴇʀs Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-<b>Commands and Usage:</b>
+<i><b>» Fɪʟᴛᴇʀ Is Tʜᴇ Fᴇᴀᴛᴜʀᴇ Wᴇʀᴇ Usᴇʀs Cᴀɴ Sᴇᴛ Aᴜᴛᴏᴍᴀᴛᴇᴅ Rᴇᴘʟɪᴇs Fᴏʀ A Pᴀʀᴛɪᴄᴜʟᴀʀ Kᴇʏᴡᴏʀᴅ.</b></i>
+
+<b>✯ Nᴏᴛᴇ:
+
+• Bᴏᴛ Sʜᴏᴜʟᴅ Hᴀᴠᴇ Aᴅᴍɪɴ Pʀɪᴠɪʟʟᴀɢᴇ.
+• Oɴʟʏ Aᴅᴍɪɴs Cᴀɴ Aᴅᴅ Fɪʟᴛᴇʀs.</b></i>
+
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
+
 • /filter - <code>add a filter in chat</code>
 • /filters - <code>list all the filters of a chat</code>
 • /del - <code>delete a specific filter in chat</code>
