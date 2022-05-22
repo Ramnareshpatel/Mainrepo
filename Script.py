@@ -26,7 +26,8 @@ Jᴏɪɴ: @Movies4youbackup ⚔️</b>"""
       /font (Tᴇxᴛ)
 
 <b>Jᴏɪɴ: @Movies4youbackup</b> ⚔️"""
-    PASSGEN_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Pᴀssᴡᴏʀᴅ Gᴇɴ Mᴏᴅᴜʟᴇ ⍟</b>
+    PASSGEN_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ P-Gᴇɴ Mᴏᴅᴜʟᴇ ⍟</b>
+
 <b>★ Tʜᴇʀᴇ Is Nᴏᴛʜɪɴɢ Tᴏ Kɴᴏᴡ Mᴏʀᴇ. Sᴇɴᴅ Mᴇ Tʜᴇ Lɪᴍɪᴛ Oғ Yᴏᴜʀ Pᴀssᴡᴏʀᴅ.
 ★ I Wɪʟʟ Gɪᴠᴇ Tʜᴇ Pᴀssᴡᴏʀᴅ Oғ Tʜᴀᴛ Lɪᴍɪᴛ!
 
@@ -42,13 +43,14 @@ Jᴏɪɴ: @Movies4youbackup ⚔️</b>"""
 Jᴏɪɴ: @Movies4youbackup</b> ⚔️"""
    
     SHAZAM_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Sʜᴀᴢᴀᴍ Mᴏᴅᴜʟᴇ ⍟</b>
-- <b>Hᴇʟᴘ=</b> Hᴇʟᴘs Yᴏᴜ Tᴏ Rᴇᴄᴏɢɴɪᴢᴇ | Dɪsᴄᴏᴠᴇʀ A Sᴏɴɢ
-- <b>Us=</b> Sᴇɴᴅ /Shazam (Rᴇᴘʟʏ Tᴏ A Sᴏɴɢ Fɪʟᴇ)
 
-<b>Wʜᴀᴛ's Tʜᴇ Usᴇ</b>
-- Dᴏ Yᴏᴜ Wᴀɴᴛ Tᴏ Kɴᴏᴡ A Sᴏɴɢ Nᴀᴍᴇ Sᴏ Yᴏᴜ Cᴀɴ Hᴇᴀʀ Iᴛ 
+★ <b>Hᴇʟᴘ=</b> Hᴇʟᴘs Yᴏᴜ Tᴏ Rᴇᴄᴏɢɴɪᴢᴇ | Dɪsᴄᴏᴠᴇʀ A Sᴏɴɢ
+★ <b>Us=</b> Sᴇɴᴅ /Shazam (Rᴇᴘʟʏ Tᴏ A Sᴏɴɢ Fɪʟᴇ)
+
+<b>★ Wʜᴀᴛ's Tʜᴇ Usᴇ :</b>
+<b>★ Dᴏ Yᴏᴜ Wᴀɴᴛ Tᴏ Kɴᴏᴡ A Sᴏɴɢ Nᴀᴍᴇ Sᴏ Yᴏᴜ Cᴀɴ Hᴇᴀʀ Iᴛ 
 Dᴏɴ'ᴛ Wᴏʀʀʏ SᴇɴᴅDᴏ Yᴏᴜ Wᴀɴᴛ Tᴏ Kɴᴏᴡ A Sᴏɴɢ Nᴀᴍᴇ Sᴏ Yᴏᴜ Cᴀɴ Hᴇᴀʀ Iᴛ 
-Dᴏɴ'ᴛ Wᴏʀʀʏ Sᴇɴᴅ /shazam
+Dᴏɴ'ᴛ Wᴏʀʀʏ Sᴇɴᴅ</b> /shazam
 
 <b>Jᴏɪɴ: @Movies4youbackup</b> ⚔️"""
     LYRICS_TXT = """<b>𝙻𝚈𝚁𝙸𝙲𝚂 𝙳𝙾𝚆𝙽𝙻𝙾𝙳𝙴 𝙼𝙾𝙳𝚄𝙻𝙴</b>
