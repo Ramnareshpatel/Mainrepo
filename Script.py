@@ -135,32 +135,42 @@ Dᴏɴ'ᴛ Wᴏʀʀʏ Sᴇɴᴅ</b></i> /shazam
 
 <i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
-• /filter - <code>add a filter in chat</code>
-• /filters - <code>list all the filters of a chat</code>
-• /del - <code>delete a specific filter in chat</code>
-• /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
-    YTSEARCH_TXT = """<b>𝚈𝚃 𝚅𝙸𝙳𝙴𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙼𝙾𝙳𝚄𝙻𝙴</b>
+• /filter - <code>Aᴅᴅ A Fɪʟᴛᴇʀ Iɴ Cʜᴀᴛ</code>
+• /filters - <code>Lɪsᴛ Aʟʟ Tʜᴇ Fɪʟᴛᴇʀs Oꜰ A Cʜᴀᴛ</code>
+• /del - <code>Dᴇʟᴇᴛᴇ A Sᴘᴇᴄɪꜰɪᴄ Fɪʟᴛᴇʀ Iɴ Cʜᴀᴛ</code>
+• /delall - <code>Dᴇʟᴇᴛᴇ Tʜᴇ Wʜᴏʟᴇ Fɪʟᴛᴇʀs Iɴ A Cʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</code>
 
-<b>𝚈𝚃 𝚅𝙸𝙳𝙴𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙼𝙾𝙳𝚄𝙻𝙴, 𝙵𝙾𝚁 𝚃𝙷𝙾𝚂𝙴 𝚆𝙷𝙾 𝙻𝙾𝚅𝙴 𝙼𝚄𝚂𝙸𝙲. 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙵𝙴𝙰𝚃𝚄𝙴 𝙵𝙾𝚁 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙰𝙽𝚈 𝚅𝙸𝙳𝙴𝙾 𝚅𝙾𝙸𝙲𝙴 𝙰𝙽𝙳 𝙱𝙶𝙼 𝙻𝙸𝙺𝙴 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝚆𝙸𝚃𝙷 𝚂𝚄𝙿𝙴𝚁 𝙵𝙰𝚂𝚃 𝚂𝙿𝙴𝙴𝙳.𝚆𝙾𝚁𝙺𝚂 𝙾𝙽𝙻𝚈 𝙾𝙽 𝙶𝚁𝙾𝚄𝙿𝚂../</b>
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
+    YTSEARCH_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Yᴛ-sᴇᴀʀᴄʜ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-<b>𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙵𝙾𝚁 𝙳𝙾𝚆𝙽𝙻𝙾𝙳𝙸𝙽𝙶 𝚅𝙸𝙳𝙴𝙾𝚂 𝙰𝙽𝙳 𝚂𝙾𝙽𝙶𝚂 𝚆𝙸𝚃𝙷 𝙷𝙴𝙻𝙿 𝙾𝙵 𝚈𝙾𝚄𝚃𝚄𝙱𝙴</b>
+- <i><b>Yᴛ Vɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ Mᴏᴅᴜʟᴇ, Fᴏʀᴇ Tʜᴏsᴇ Wʜᴏ Lᴏᴠᴇ Mᴜsɪᴄ. Yᴏᴜ Cᴀɴ Usᴇ Tʜɪs Fᴇᴀᴛᴜʀᴇ Fᴏʀ Dᴏᴡɴʟᴏᴀᴅ Aɴʏ Vɪᴅᴇᴏ Vᴏɪᴄᴇ Aɴᴅ Bɢᴍ Lɪᴋᴇ Yᴏᴜᴛᴜʙᴇ Wɪᴛʜ Sᴜᴘᴇʀ Fᴀsᴛ Sᴘᴇᴇᴅ.Wᴏʀᴋ Oɴʟʏ Oɴ Gʀᴏᴜᴘ.</b></i>
 
-<b>𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂</b>
+- <i><b>Yᴏᴜ Cᴀɴ Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ Fᴏʀ Dᴏᴡɴʟᴏᴅɪɴɢ Vɪᴅᴇᴏs 𝙰𝙽𝙳 Sᴏɴɢ Wɪᴛʜ Hᴇʟᴘ Oғ Yᴏᴜᴛᴜʙᴇ</b></i>
 
-››  /search 𝚂𝙴𝙰𝚁𝙲𝙷𝙸𝙽𝙶 𝙽𝙰𝙼𝙴 
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
-𝚆𝙾𝚁𝙺𝚂 𝙾𝙽𝙻𝚈 𝙾𝙽 𝙶𝚁𝙾𝚄𝙿
+• /search <i><b>Sᴇᴀʀᴄʜɪɴɢ Nᴀᴍᴇ
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/Tamil_moviesdaa>𝚃𝙰𝙼𝙸𝙻-𝙼𝙾𝚅𝙸𝙴𝚂</a>"""
-    PIN_TXT ="""<b>PIN MODULE</b>
-<b>𝙿𝙸𝙽 𝙰 𝙼𝙴𝚂𝚂𝙰𝙶𝙴../</b>
+✯ Nᴏᴛᴇ:
 
-<b>𝙰𝙻𝙻 𝚃𝙷𝙴 𝙿𝙸𝙽 𝚁𝙴𝙻𝙰𝚃𝙴𝙳 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝙲𝙰𝙽 𝙱𝙴 𝙵𝙾𝚄𝙽𝙳 𝙷𝙴𝚁𝙴::</b>
+- Wᴏʀᴋ Oɴʟʏ Oɴ Gʀᴏᴜᴘ
 
-<b>📌𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝙰𝙽𝙳 𝚄𝚂𝙰𝙶𝙴📌</b>
+Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
+    PIN_TXT ="""<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Pɪɴ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-◉ /pin :- 𝚃𝙾 𝙿𝙸𝙽 𝚃𝙷𝙴 𝙼𝙴𝚂𝚂𝙰𝙶𝙴 𝙾𝙽 𝚈𝙾𝚄𝚁 𝙲𝙷𝙰𝚃𝚂
-◉ /unpin :- 𝚃𝙾 𝚄𝙽𝙿𝙸𝙽 𝚃𝙷𝙴 𝙲𝚄𝚁𝚁𝙴𝙴𝙽𝚃 𝙿𝙸𝙽𝙽𝙴𝙳 𝙼𝙴𝚂𝙰𝙰𝙶𝙴"""
+» Aʟʟ Tʜᴇ Pɪɴ Rᴇʟᴀᴛᴇᴅ Cᴏᴍᴍᴀɴᴅs Cᴀɴ Bᴇ Fᴏᴜɴᴅ Hᴇʀᴇ!
+
+✯ Nᴏᴛᴇ:
+
+- <i><b>Aᴅᴅ 'Lᴏᴜᴅ' Oʀ 'Nᴏᴛɪғʏ' Tᴏ Sᴇɴᴅ A Nᴏᴛɪғɪᴄᴀᴛɪᴏɴ Tᴏ Gʀᴏᴜᴘ Mᴇᴍʙᴇʀs.</b></i>
+- <i><b>Iғ</b></i> /unpin <i><b>Usᴇᴅ As A Rᴇᴘʟʏ, Uɴᴘɪɴs Tʜᴇ Rᴇᴘʟɪᴇᴅ Tᴏ Mᴇssᴀɢᴇ.</b></i>
+
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
+
+• /pin :- <i><b>Pɪɴ Tʜᴇ Mᴇssᴀɢᴇ Yᴏᴜ Rᴇᴘʟɪᴇᴅ Tᴏ.</b></i>
+• /unpin :- <i><b>Uɴᴘɪɴ Tʜᴇ Cᴜʀʀᴇɴᴛ Pɪɴɴᴇᴅ Mᴇssᴀɢᴇ.</b></i>
+
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
     PASTE_TXT = """Help: <b>Paste</b>
 
 Paste some texts or documents on a website!
