@@ -106,7 +106,9 @@ Dᴏɴ'ᴛ Wᴏʀʀʏ Sᴇɴᴅ</b></i> /shazam
 
 <i><b>★ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
-•/whois <i><b>:-Gɪᴠᴇ A Usᴇʀ Fᴜʟʟ Dᴇᴛᴀɪʟs</b></i>"""
+•/whois <i><b>:-Gɪᴠᴇ A Usᴇʀ Fᴜʟʟ Dᴇᴛᴀɪʟs</b></i>
+
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
     FUN_TXT ="""<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Gᴀᴍᴇs Mᴏᴅᴜʟᴇ ⍟</b></i> 
     
 <i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
@@ -119,7 +121,9 @@ Dᴏɴ'ᴛ Wᴏʀʀʏ Sᴇɴᴅ</b></i> /shazam
 
 <i><b>✯ Wᴀɴᴛ Mᴏʀᴇ Gᴀᴍᴇs ?
 
-» Gᴏ atᴏ Pʟᴀʏ Sᴛᴏʀᴇ Oʀ Aᴘᴘ Sᴛᴏʀᴇ Aɴᴅ Dᴏᴡɴʟᴏᴀᴅ Aɴʏ Gᴀᴍᴇ. Dᴏɴ'ᴛ Dɪsᴛᴜʀʙ Mᴇ</b></i> 😜"""
+» Gᴏ atᴏ Pʟᴀʏ Sᴛᴏʀᴇ Oʀ Aᴘᴘ Sᴛᴏʀᴇ Aɴᴅ Dᴏᴡɴʟᴏᴀᴅ Aɴʏ Gᴀᴍᴇ. Dᴏɴ'ᴛ Dɪsᴛᴜʀʙ Mᴇ</b></i> 😜
+
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
     MANUELFILTER_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Fɪʟᴛᴇʀs Mᴏᴅᴜʟᴇ ⍟</b></i>
 
 <i><b>» Fɪʟᴛᴇʀ Is Tʜᴇ Fᴇᴀᴛᴜʀᴇ Wᴇʀᴇ Usᴇʀs Cᴀɴ Sᴇᴛ Aᴜᴛᴏᴍᴀᴛᴇᴅ Rᴇᴘʟɪᴇs Fᴏʀ A Pᴀʀᴛɪᴄᴜʟᴀʀ Kᴇʏᴡᴏʀᴅ.</b></i>
