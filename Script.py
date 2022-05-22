@@ -40,7 +40,7 @@ Jᴏɪɴ: @Movies4youbackup ⚔️</b>"""
 ★ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b>
    /genpw Oʀ /genpasswordij
 
-Jᴏɪɴ: @Movies4youbackup</b> ⚔️"""
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
    
     SHAZAM_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Sʜᴀᴢᴀᴍ Mᴏᴅᴜʟᴇ ⍟</b>
 
