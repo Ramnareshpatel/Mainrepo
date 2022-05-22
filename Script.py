@@ -18,20 +18,28 @@ Jᴏɪɴ: @Movies4youbackup ⚔️</b>"""
 ❍ Bᴏᴛ Sᴇʀᴠᴇʀ: Hᴇʀᴏᴋᴜ
 ❍ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v1.0.1 [ Bᴇᴛᴀ ]</b>"""
     
-    FONT_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Sᴛʏʟɪsʜ Tᴇxᴛ Mᴏᴅᴜʟᴇ ⍟</b>
+    FONT_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Fᴏɴᴛ Mᴏᴅᴜʟᴇ ⍟</b>
     
-    <b>Tʜɪs Mᴏᴅᴜʟᴇ Cᴀɴ Gɪᴠᴇ Sᴛʏʟɪsʜ Tᴇxᴛ</b> 
-      <b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b>
+<b>Tʜɪs Mᴏᴅᴜʟᴇ Cᴀɴ Gɪᴠᴇ Sᴛʏʟɪsʜ Tᴇxᴛ
+ 
+★ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b>
       /font (Tᴇxᴛ)
 
 <b>Jᴏɪɴ: @Movies4youbackup</b> ⚔️"""
     PASSGEN_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Pᴀssᴡᴏʀᴅ Gᴇɴ Mᴏᴅᴜʟᴇ ⍟</b>
-  <b>» Tʜᴇʀᴇ Is Nᴏᴛʜɪɴɢ Tᴏ Kɴᴏᴡ Mᴏʀᴇ. Sᴇɴᴅ Mᴇ Tʜᴇ Lɪᴍɪᴛ Oғ Yᴏᴜʀ Pᴀssᴡᴏʀᴅ.
-- I Wɪʟʟ Gɪᴠᴇ Tʜᴇ Pᴀssᴡᴏʀᴅ Oғ Tʜᴀᴛ Lɪᴍɪᴛ!</b>
-     <b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b>
-   /genpw Oʀ /genpassword
+<b>★ Tʜᴇʀᴇ Is Nᴏᴛʜɪɴɢ Tᴏ Kɴᴏᴡ Mᴏʀᴇ. Sᴇɴᴅ Mᴇ Tʜᴇ Lɪᴍɪᴛ Oғ Yᴏᴜʀ Pᴀssᴡᴏʀᴅ.
+★ I Wɪʟʟ Gɪᴠᴇ Tʜᴇ Pᴀssᴡᴏʀᴅ Oғ Tʜᴀᴛ Lɪᴍɪᴛ!
 
-<b>Jᴏɪɴ: @Movies4youbackup</b> ⚔️"""
+★ Nᴏᴛᴇ:
+
+★ ᴏɴʟʏ ᴅɪɢɪᴛs ᴀʀᴇ ᴀʟʟᴏᴡᴇᴅ.
+★ ᴍᴀxɪᴍᴜᴍ ᴀʟʟᴏᴡᴇᴅ ᴅɪɢɪᴛs ᴛɪʟʟ 84 
+(ɪ ᴄᴀɴ'ᴛ ɢᴇɴᴇʀᴀᴛᴇ ᴘᴀssᴡᴏʀᴅs ᴀʙᴏᴠᴇ ᴛʜᴇ ʟᴇɴɢᴛʜ 84)
+ 
+★ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b>
+   /genpw Oʀ /genpasswordij
+
+Jᴏɪɴ: @Movies4youbackup</b> ⚔️"""
    
     SHAZAM_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Sʜᴀᴢᴀᴍ Mᴏᴅᴜʟᴇ ⍟</b>
 - <b>Hᴇʟᴘ=</b> Hᴇʟᴘs Yᴏᴜ Tᴏ Rᴇᴄᴏɢɴɪᴢᴇ | Dɪsᴄᴏᴠᴇʀ A Sᴏɴɢ
