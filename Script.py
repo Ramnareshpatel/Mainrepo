@@ -3,30 +3,30 @@ class script(object):
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Sᴇᴇ Mʏ Pᴏᴡᴇʀ.😀
 
 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>會؄𝚂𝚄𝚁𝙰𝙹؄會</a></b>"""
-    COMMANDS_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Hᴇʟᴘ Mᴏᴅᴜʟᴇ ⍟
+    COMMANDS_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Hᴇʟᴘ Mᴏᴅᴜʟᴇ ⍟
 
 • Iᴛ's Nᴏᴛ Cᴏᴍᴘʟɪᴄᴀᴛᴇᴅ....🤓
 • Dᴏɴ'ᴛ Sᴘᴀᴍ Mᴇ...🤒
 • Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Cᴏᴍᴍᴀɴᴅs...😍.
 
-Jᴏɪɴ: @Movies4youbackup ⚔️</b>"""
-    ABOUT_TXT = """<b>❍ Mʏ Nᴀᴍᴇ: {}
+Jᴏɪɴ: @Movies4youbackup ⚔️</b></i>"""
+    ABOUT_TXT = """<i><b>❍ Mʏ Nᴀᴍᴇ: {}
 ❍ Cʀᴇᴀᴛᴇʀ: <a href=https://t.me/KingOf_univers>會؄𝚂𝚄𝚁𝙰𝙹؄會</a>
 ❍ Lɪʙʀᴀʀʏ: Pʀᴏɢʀᴀᴍ
 ❍ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 𝟹
 ❍ Dᴀᴛᴀ Bᴀsᴇ: Mᴏɴɢᴏ Dʙ
 ❍ Bᴏᴛ Sᴇʀᴠᴇʀ: Hᴇʀᴏᴋᴜ
-❍ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v1.0.1 [ Bᴇᴛᴀ ]</b>"""
+❍ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v1.0.1 [ Bᴇᴛᴀ ]</b></i>"""
     
-    FONT_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Fᴏɴᴛ Mᴏᴅᴜʟᴇ ⍟</b>
+    FONT_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Fᴏɴᴛ Mᴏᴅᴜʟᴇ ⍟</b>
     
 <b>Tʜɪs Mᴏᴅᴜʟᴇ Cᴀɴ Gɪᴠᴇ Sᴛʏʟɪsʜ Tᴇxᴛ
  
-★ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b>
+★ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
       /font (Tᴇxᴛ)
 
-<b>Jᴏɪɴ: @Movies4youbackup</b> ⚔️"""
-    PASSGEN_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ P-Gᴇɴ Mᴏᴅᴜʟᴇ ⍟</b>
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
+    PASSGEN_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ P-Gᴇɴ Mᴏᴅᴜʟᴇ ⍟</b>
 
 <b>★ Tʜᴇʀᴇ Is Nᴏᴛʜɪɴɢ Tᴏ Kɴᴏᴡ Mᴏʀᴇ. Sᴇɴᴅ Mᴇ Tʜᴇ Lɪᴍɪᴛ Oғ Yᴏᴜʀ Pᴀssᴡᴏʀᴅ.
 ★ I Wɪʟʟ Gɪᴠᴇ Tʜᴇ Pᴀssᴡᴏʀᴅ Oғ Tʜᴀᴛ Lɪᴍɪᴛ!
@@ -37,22 +37,22 @@ Jᴏɪɴ: @Movies4youbackup ⚔️</b>"""
 ★ ᴍᴀxɪᴍᴜᴍ ᴀʟʟᴏᴡᴇᴅ ᴅɪɢɪᴛs ᴛɪʟʟ 84 
 (ɪ ᴄᴀɴ'ᴛ ɢᴇɴᴇʀᴀᴛᴇ ᴘᴀssᴡᴏʀᴅs ᴀʙᴏᴠᴇ ᴛʜᴇ ʟᴇɴɢᴛʜ 84)
  
-★ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b>
+★ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
    /genpw Oʀ /genpasswordij
 
 <i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
    
-    SHAZAM_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Sʜᴀᴢᴀᴍ Mᴏᴅᴜʟᴇ ⍟</b>
+    SHAZAM_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Sʜᴀᴢᴀᴍ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-★ <b>Hᴇʟᴘ=</b> Hᴇʟᴘs Yᴏᴜ Tᴏ Rᴇᴄᴏɢɴɪᴢᴇ | Dɪsᴄᴏᴠᴇʀ A Sᴏɴɢ
-★ <b>Us=</b> Sᴇɴᴅ /Shazam (Rᴇᴘʟʏ Tᴏ A Sᴏɴɢ Fɪʟᴇ)
+<b>★ Hᴇʟᴘ= Hᴇʟᴘs Yᴏᴜ Tᴏ Rᴇᴄᴏɢɴɪᴢᴇ | Dɪsᴄᴏᴠᴇʀ A Sᴏɴɢ</b></i>
+<i><b>★ Us= Sᴇɴᴅ</b></i> /Shazam <i><b>(Rᴇᴘʟʏ Tᴏ A Sᴏɴɢ Fɪʟᴇ)</b></i>
 
-<b>★ Wʜᴀᴛ's Tʜᴇ Usᴇ :</b>
-<b>★ Dᴏ Yᴏᴜ Wᴀɴᴛ Tᴏ Kɴᴏᴡ A Sᴏɴɢ Nᴀᴍᴇ Sᴏ Yᴏᴜ Cᴀɴ Hᴇᴀʀ Iᴛ 
+<i><b>★ Wʜᴀᴛ's Tʜᴇ Usᴇ :</b></i>
+<i><b>★ Dᴏ Yᴏᴜ Wᴀɴᴛ Tᴏ Kɴᴏᴡ A Sᴏɴɢ Nᴀᴍᴇ Sᴏ Yᴏᴜ Cᴀɴ Hᴇᴀʀ Iᴛ 
 Dᴏɴ'ᴛ Wᴏʀʀʏ SᴇɴᴅDᴏ Yᴏᴜ Wᴀɴᴛ Tᴏ Kɴᴏᴡ A Sᴏɴɢ Nᴀᴍᴇ Sᴏ Yᴏᴜ Cᴀɴ Hᴇᴀʀ Iᴛ 
-Dᴏɴ'ᴛ Wᴏʀʀʏ Sᴇɴᴅ</b> /shazam
+Dᴏɴ'ᴛ Wᴏʀʀʏ Sᴇɴᴅ</b></i> /shazam
 
-<b>Jᴏɪɴ: @Movies4youbackup</b> ⚔️"""
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
     LYRICS_TXT = """<b>𝙻𝚈𝚁𝙸𝙲𝚂 𝙳𝙾𝚆𝙽𝙻𝙾𝙳𝙴 𝙼𝙾𝙳𝚄𝙻𝙴</b>
 - 𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙳𝙴 𝙰 𝙻𝚈𝚁𝙸𝙲, 𝙳𝙾𝙽'𝚝 𝚂𝙴𝙰𝚁𝙲𝙷 𝙵𝙾𝚁 𝙾𝚃𝙷𝙴𝚁 𝙱𝙾𝚃 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙰𝙻𝙻 𝙸𝙽 𝙾𝙽𝙴 𝙱𝙾𝚃
 <b>𝙲𝙾𝙼𝙼𝙰𝙽𝙳</b>
