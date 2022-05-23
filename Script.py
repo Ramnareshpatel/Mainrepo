@@ -286,7 +286,7 @@ Gʀᴏᴜᴘ Sᴜᴘᴘᴏʀᴛ</b></i>
 <i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
     AUTOFILTER_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Aᴜᴛᴏ Fɪʟᴛᴇʀ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
 ›› /autofilter on - <i><b>Eɴᴀʙʟᴇ Aᴜᴛᴏ Fɪʟᴛᴇʀ Iɴ Tʜᴇ Gʀᴏᴜᴘ.</b></i>
 ›› /autofilter off - <i><b>Dɪsᴀʙʟᴇ Aᴜᴛᴏ Fɪʟᴛᴇʀ Iɴ Tʜᴇ Gʀᴏᴜᴘ.</b></i>
@@ -294,25 +294,31 @@ Gʀᴏᴜᴘ Sᴜᴘᴘᴏʀᴛ</b></i>
 ›› /get_template - <i><b>Gᴇᴛ Cᴜʀʀᴇɴᴛ Iᴍᴅʙ Tᴀᴍᴘʟᴇᴛ Oғ Aᴜᴛᴏ Fɪʟᴛᴇʀ.</b></i>
 
 <i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
-    CONNECTION_TXT = """Help: <b>Connections</b>
+    CONNECTION_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Cᴏɴɴᴇᴄᴛɪᴏɴs Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-- Used to connect bot to PM for managing filters 
-- it helps to avoid spamming in groups.
+» Usᴇᴅ Tᴏ Cᴏɴɴᴇᴄᴛ Bᴏᴛ Tᴏ Pᴍ Fᴏʀ Fɪʟᴛᴇʀs.
+» Iᴛ Hᴇʟᴘs Tᴏ Aᴠᴏɪᴅ Sᴘᴀᴍᴍɪɴɢ Iɴ Gʀᴏᴜᴘs.
 
-<b>NOTE:</b>
-1. 𝙾𝙽𝙻𝚈 𝙰𝙳𝙼𝙸𝙽𝚂 𝙲𝙰𝙽 𝙰𝙳𝙳 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽.
-2. Send <code>/connect</code> for connecting me to ur PM
+<i><b>✯ Nᴏᴛᴇ:
 
-<b>Commands and Usage:</b>
-• /connect  - <code>connect a particular chat to your PM</code>
-• /disconnect  - <code>disconnect from a chat</code>
-• /connections - <code>list all your connections</code>"""
-    EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
+★ Oɴʟʏ Aᴅᴍɪɴs cᴀɴ Aᴅᴅ A Cᴏɴɴᴇᴄᴛɪᴏɴ.</b></i>
+<i><b>★ Sᴇɴᴅ</b></i> <code>/connect</code> <i><b>Fᴏʀ Cᴏɴɴᴇᴄᴛɪɴɢ Mᴇ Tᴏ Uʀ Pᴍ.</b></i>
 
-<b>NOTE:</b>
-𝚃𝙷𝙴𝚂𝙴 𝙰𝚁𝙴 𝙴𝚇𝚃𝚁𝙰 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙾𝙵 𝙻𝚄𝙽𝙰
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
-<b>Commands and Usage:</b>
+• /connect  - Cᴏɴɴᴇᴄᴛ A Aɴʏ Cʜᴀᴛ.
+• /disconnect  - Dɪsᴄᴏɴɴᴇᴄᴛ Fʀᴏᴍ A Cʜᴀᴛ.
+• /connections - Lɪsᴛ Aʟʟ Cᴏɴɴᴇᴄᴛɪᴏɴs.
+
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
+    EXTRAMOD_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Exᴛʀᴀ Mᴏᴅᴜʟᴇ ⍟</b></i>
+
+<i><b>✯ Nᴏᴛᴇ:
+
+- Tʜᴇsᴇ Aʀᴇ Exᴛʀᴀ Fᴇᴀᴛᴜʀᴇs Oғ Bᴏᴛ</b></i>
+
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
+
 • /id - <code>get id of a specifed user.</code>
 • /info  - <code>get information about a user.</code>
 • /imdb  - <code>get the film information from IMDb source.</code>
