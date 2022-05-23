@@ -356,13 +356,15 @@ Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋ Fᴏʀ Mʏ Aᴅᴍɪɴs</b></i>
 <i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
     DEVELOPER_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Dᴇᴠᴇʟᴏᴘᴇʀs Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-✯ Mʏ Nᴀᴍᴇ: 
+<i><b>✯ Mʏ Nᴀᴍᴇ: <a href=http://t.me/Melody_AutoFilterBot>Mᴇʟᴏᴅʏ</a>
     
-✯ Cʀᴇᴀᴛᴏʀ: 
+✯ Cʀᴇᴀᴛᴏʀ: <a href=https://t.me/KingOf_univers>會؄𝚂𝚄𝚁𝙰𝙹؄會</a>
 
-✯ Mʏ Gʀᴏᴜᴘ: 
+✯ Mʏ Gʀᴏᴜᴘ: <a href=https://t.me/Movies_4you>Mᴏᴠɪᴇs 4 ʏᴏᴜ</a>
 
-✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: ᴠ3.0.1 [Sᴛᴀʙʟᴇ]"""
+✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: ᴠ3.0.1 [Sᴛᴀʙʟᴇ]</b></i>
+
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
     LOG_TEXT_G = """ΝᎬᏔᏀᎡϴႮᏢ
     
 <b>★ 𝐆𝐫𝐨𝐮𝐩 ⪼ {}(<code>{}</code>)</b>
@@ -374,46 +376,51 @@ Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋ Fᴏʀ Mʏ Aᴅᴍɪɴs</b></i>
 <b>★ 𝐈𝐃 - <code>{}</code></b>
 <b>★ 𝐍𝐚𝐦𝐞 - {}</b>
 """
-    REPORT_TXT = """➤ 𝐇𝐞𝐥𝐩: Rᴇᴘᴏʀᴛ ⚠️
+    REPORT_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Rᴇᴘᴏʀᴛ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚛𝚎𝚙𝚘𝚛𝚝 𝚊 𝚖𝚎𝚜𝚜𝚊𝚐𝚎 𝚘𝚛 𝚊 𝚞𝚜𝚎𝚛 𝚝𝚘 𝚝𝚑𝚎 𝚊𝚍𝚖𝚒𝚗𝚜 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚜𝚙𝚎𝚌𝚝𝚒𝚟𝚎 𝚐𝚛𝚘𝚞𝚙. 𝙳𝚘𝚗'𝚝 𝚖𝚒𝚜𝚞𝚜𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍.
+<i><b>- Tʜɪs Cᴏᴍᴍᴀɴᴅ Hᴇʟᴘs Yᴏᴜ Tᴏ Rᴇᴘᴏʀᴛ A Mᴇssᴀɢᴇ Oʀ A Usᴇʀ Tᴏ Tʜᴇ Aᴅᴍɪɴs Oғ Tʜᴇ Rᴇsᴘᴇᴄᴛɪᴠᴇ Gʀᴏᴜᴘ. Dᴏɴ'ᴛ Mɪsᴜsᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ.</b></i>
 
-➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
-➪/report 𝗈𝗋 @admins - 𝖳𝗈 𝗋𝖾𝗉𝗈𝗋𝗍 𝖺 𝗎𝗌𝖾𝗋 𝗍𝗈 𝗍𝗁𝖾 𝖺𝖽𝗆𝗂𝗇𝗌 (𝗋𝖾𝗉𝗅𝗒 𝗍𝗈 𝖺 𝗆𝖾𝗌𝗌𝖺𝗀𝖾)."""
+• /report 𝗈𝗋 @admins <i><b>- Tᴏ Rᴇᴘᴏʀᴛ A Usᴇʀ Tᴏ Tʜᴇ Aᴅᴍɪɴs (Rᴇᴘʟʏ Tᴏ A Mᴇssᴀɢᴇ).</b></i>
 
-    CORONA_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖢𝗈𝗏𝗂𝖽
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 
-𝚃𝚑𝚒𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚔𝚗𝚘𝚠 𝚍𝚊𝚒𝚕𝚢 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚊𝚋𝚘𝚞𝚝 𝚌𝚘𝚟𝚒𝚍 
+    CORONA_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Cᴏᴠɪᴅ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
+<i><b>- Tʜɪs Cᴏᴍᴍᴀɴᴅ Hᴇʟᴘs Yᴏᴜ Tᴏ Kɴᴏᴡ Dᴀɪʟʏ Iɴғᴏʀᴍᴀᴛɪᴏɴ Aʙᴏᴜᴛ Cᴏᴠɪᴅ.</b></i> 
 
-➪ /covid - 𝗎𝗌𝖾 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗐𝗂𝗍𝗁 𝗒𝗈𝗎𝗋 𝖼𝗈𝗎𝗇𝗍𝗋𝗒 𝗇𝖺𝗆𝖾 𝗍𝗈 𝗀𝖾𝗍 𝖼𝗈𝗏𝗂𝖽𝖾 𝗂𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
-➛𝖤𝗑𝖺𝗆𝗉𝗅𝖾:
-<code>/covid 𝖨𝗇𝖽𝗂𝖺</code>"""
+• /covid <i><b>- Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ Wɪᴛʜ Yᴏᴜʀ Cᴏᴜɴᴛʀʏ Nᴀᴍᴇ Tᴏ Gᴇᴛ Cᴏᴠɪᴅ Iɴғᴏʀᴍᴀᴛɪᴏɴ.</b></i>
 
-    URLSHORT_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖴𝗋𝗅 𝗌𝗁𝗈𝗋𝗍𝗇𝖾𝗋
+<i><b>✯ Exᴀᴍᴘʟᴇ:</b></i>
+<code>/covid india</code>
 
-𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚜𝚑𝚘𝚛𝚝 𝚊 𝚞𝚛𝚕 
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 
-➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
+    URLSHORT_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Uʀʟ Sʜᴏʀᴛ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-➪ /short: 𝗎𝗌𝖾 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗐𝗂𝗍𝗁 𝗒𝗈𝗎𝗋 𝗅𝗂𝗇𝗄 𝗍𝗈 𝗀𝖾𝗍 𝗌𝗁𝗈𝗋𝗍𝖾𝖽 𝗅𝗂𝗇𝗄𝗌
+<i><b>» Usɪɴɢ Tʜɪs Yᴏᴜ Cᴀɴ Sʜᴏʀᴛ Yᴏᴜʀ Lɪɴᴋs!</b></i>
 
-➛𝖤𝗑𝖺𝗆𝗉𝗅𝖾:
-<code>/short https://youtu.be/CPuvm126KPA</code>"""
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
-    VIDEO_TXT ="""𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴.
+• /short: <i><b>(ʟɪɴᴋ) - ɪ ᴡɪʟʟ sᴇɴᴅ ᴛʜᴇ sʜᴏʀᴛᴇᴅ ʟɪɴᴋs.</b></i>
 
-• 𝘜𝘴𝘢𝘨𝘦
-𝚈𝙾𝚄 𝙲𝙰𝙽 𝙳𝙾𝚆𝙽𝙻𝙾𝙳𝙴 𝙰𝙽𝚈 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴
+<i><b>✯ ᴇxᴀᴍᴘʟᴇ:</b></i>
+/short <code>https://t.me/Movies4youBackup</code>
 
-𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
-• 𝘛𝘺𝘱𝘦 /video or /mp4 𝘈𝘯𝘥 (https://youtu.be/9RVhig3kH3E)
-• 𝘌𝘹𝘢𝘮𝘱𝘭𝘦:
-<code>/mp4 https://youtu.be/CPuvm126KPA</code>
-<code>/video https://youtu.be/CPuvm126KPA</code>"""
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
+
+    VIDEO_TXT ="""<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Uʀʟ Vɪᴅᴇᴏ Mᴏᴅᴜʟᴇ ⍟</b></i>
+
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
+
+• Tʏᴘᴇ /video or /mp4 Aɴᴅ (https://youtu.be/9RShig3kH3E)
+
+✯ ᴇxᴀᴍᴘʟᴇ:
+<code>/mp4 https://youtu.be/Chuvm126KPA</code>
+<code>/video https://youtu.be/CPudm126KPA</code>"""
 
     ZOMBIES_TXT = """𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙺𝙸𝙲𝙺 𝚄𝚂𝙴𝚁𝚂
 
