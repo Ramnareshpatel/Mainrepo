@@ -193,40 +193,45 @@ Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 
 • /tts <i><b><text> : Cᴏɴᴠᴇʀᴛ Tᴇxᴛ Tᴏ Sᴘᴇᴇᴄʜ</b></i>
 
-✯ Nᴏᴛᴇ:
+<i><b>✯ Nᴏᴛᴇ:
 
-• IMDb should have admin privillage.
-• These commands works on both pm and group.
-• IMDb can translate texts to 200+ languages."""
-    PINGS_TXT ="""<b>🌟 Ping:</b>
+• Bᴏᴛ Sʜᴏᴜʟᴅ Hᴀᴠᴇ Aᴅᴍɪɴ Pʀɪᴠɪʟʟᴀɢᴇ.
+• Tʜᴇsᴇ Cᴏᴍᴍᴀɴᴅs Wᴏʀᴋs Oɴ Bᴏᴛʜ Pᴍ Aɴᴅ Gʀᴏᴜᴘ.
+• Bᴏᴛ Cᴀɴ Tʀᴀɴsʟᴀᴛᴇ Tᴇxᴛs Tᴏ 𝟸𝟶𝟶+ Lᴀɴɢᴜᴀɢᴇs.</b></i>
 
-𝙷𝙴𝙻𝙿𝚂 𝚃𝙾 𝚈𝙾𝚄 𝙺𝙽𝙾𝚆𝚂 𝚈𝙾𝚄𝚁 𝙿𝙸𝙽𝙶 🚶🏼‍♂️
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
+    PINGS_TXT ="""<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Pɪɴɢ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-<b>Commands:</b>
+<i><b>- Hᴇʟᴘs Yᴏᴜ Tᴏ Kɴᴏᴡ Yᴏᴜʀ Pɪɴɢ</b></i>
 
-• /alive - To check you are alive.
-• /commands - To get help.
-• /ping - To get your ping.
-• /repo - Source Code.
-• /channel - Channel Details.
-• /luna - Bot Link.
-<b>🏹Usage🏹 :</b>
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇ</b></i>
+• /alive - Tᴏ ᴄʜᴇᴄᴋ Yᴏᴜ Aʀᴇ Aʟɪᴠᴇ.
+• /commands - Tᴏ Gᴇᴛ Hᴇʟᴘ.
+• /ping - Tᴏ Gᴇᴛ Yᴏᴜʀ Pɪɴɢ.
+• /channel - Cʜᴀɴɴᴇʟ Dᴇᴛᴀɪʟs.
+• /suraj - Bᴏᴛ Lɪɴᴋ.
 
-• This commands can be used in pms and groups
-• This commands can be used buy everyone in the groups and bots pm
-• Share us for more features"""
-    TELE_TXT = """<b>▫️HELP: Telegraph▪️</b>
+<i><b>✯ Usᴀɢᴇ :
 
-Do as you wish with telegra.ph module!
+• Tʜᴇsᴇ Cᴏᴍᴍᴀɴᴅs Wᴏʀᴋs ᴀᴏɴ ᴀʙᴏᴛʜ Pᴍ Aɴᴅ Gʀᴏᴜᴘ.
+• Tʜᴇsᴇ Cᴏᴍᴍᴀɴᴅs Cᴀɴ Bᴇ Usᴇᴅ Bʏ Aɴʏ Gʀᴏᴜᴘ Mᴇᴍʙᴇʀ.</b></i>
 
-</b>USAGE:</b>
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
+    TELE_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Tᴇʟᴇɢʀᴀᴘʜ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-🤧 /telegraph - 𝚂𝙴𝙽𝙳 𝙼𝙴 𝙿𝙸𝙲𝚃𝚄𝚁𝙴 𝙾𝚁 𝚅𝙸𝙳𝙴𝙾 𝚄𝙽𝙳𝙴𝚁 (5𝙼𝙱)
 
-<b>NOTE:</b>
+<i><b>» ᴡɪᴛʜ ᴛʜɪs ʏᴏᴜ ᴄᴀɴ ᴇᴀsɪʟʏ ᴜᴘʟᴏᴀᴅ ʏᴏᴜʀ ᴍᴇᴅɪᴀ ᴏɴ ᴛᴇʟᴇɢʀᴀᴘʜ's ᴡᴇʙsɪᴛᴇ!</b></i>
 
-• This Command Is Available in goups and pms
-• This Command Can be used by everyone"""
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇ</b></i>
+
+• /telegraph - <i><b>Uᴘʟᴏᴀᴅ Sᴜᴘᴘᴏʀᴛᴇᴅ Mᴇᴅɪᴀ (Wɪᴛʜɪɴ 5ᴍʙ) Tᴏ Tᴇʟᴇɢʀᴀᴘʜ.</b></i>
+
+<i><b>✯ Nᴏᴛᴇ:
+
+• Tʜᴇsᴇ Cᴏᴍᴍᴀɴᴅs Wᴏʀᴋs ᴀᴏɴ ᴀʙᴏᴛʜ Pᴍ Aɴᴅ Gʀᴏᴜᴘ.
+• Tʜᴇsᴇ Cᴏᴍᴍᴀɴᴅs Cᴀɴ Bᴇ Usᴇᴅ Bʏ Aɴʏ Gʀᴏᴜᴘ Mᴇᴍʙᴇʀ.</b></i>
+
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 
     PRIVATEBOT_TXT = """<b>𝚈𝙾𝚄 𝚃𝙷𝙸𝙽𝙺 [𝙻𝚄𝙽𝙰](https://telegra.ph/file/560494d82b5deadc1630d.mp4) 𝙼𝙴𝙰𝙽 𝙵𝙻𝙾𝚆𝙴𝚁 𝙽𝙾 𝙵𝙸𝚁𝙴🔥</b>
 <b>›› 𝙸𝙵 𝚈𝙾𝚄𝚁 𝙱𝙰𝙳 𝙸𝙰𝙼 𝚈𝙾𝚄𝚁 𝙳𝙰𝙳</b>
