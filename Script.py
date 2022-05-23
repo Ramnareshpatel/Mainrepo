@@ -319,13 +319,16 @@ Gʀᴏᴜᴘ Sᴜᴘᴘᴏʀᴛ</b></i>
 
 <i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
-• /id - <code>get id of a specifed user.</code>
-• /info  - <code>get information about a user.</code>
-• /imdb  - <code>get the film information from IMDb source.</code>
-• /search  - <code>get the film information from various sources.</code>"""
-    ADMIN_TXT = """Help: <b>Admin mods</b>
+• /id - <code>Gᴇᴛ Iᴅ Oꜰ A Sᴘᴇᴄɪꜰɪᴇᴅ Usᴇʀ.</code>
+• /info  - <code>Gᴇᴛ Iɴꜰᴏʀᴍᴀᴛɪᴏɴ Aʙᴏᴜᴛ A Usᴇʀ.</code>
+• /imdb  - <code>Gᴇᴛ Tʜᴇ Fɪʟᴍ Iɴꜰᴏʀᴍᴀᴛɪᴏɴ Fʀᴏᴍ Iᴍᴅʙ Sᴏᴜʀᴄᴇ.</code>
+• /search  - <code>Gᴇᴛ Tʜᴇ Fɪʟᴍ Iɴꜰᴏʀᴍᴀᴛɪᴏɴ Fʀᴏᴍ Vᴀʀɪᴏᴜs Sᴏᴜʀᴄᴇs.</code>
 
-<b>NOTE:</b>
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
+    ADMIN_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Exᴛʀᴀ Mᴏᴅᴜʟᴇ ⍟</b></i>
+
+✯ Nᴏᴛᴇ :
+
 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝙾𝙽𝙻𝚈 𝚆𝙾𝚁𝙺𝚂 𝙵𝙾𝚁 𝙼𝚈 𝙰𝙳𝙼𝙸𝙽𝚂
 
 <b>Commands and Usage:</b>
