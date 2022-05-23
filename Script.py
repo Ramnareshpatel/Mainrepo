@@ -182,7 +182,7 @@ Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 <i><b>✯ Nᴏᴛᴇ:
 
 • Tʜᴇsᴇ Cᴏᴍᴍᴀɴᴅs Wᴏʀᴋs ᴀᴏɴ ᴀʙᴏᴛʜ Pᴍ Aɴᴅ Gʀᴏᴜᴘ.
-• Tʜᴇsᴇ Cᴏᴍᴍᴀɴᴅs Cᴀɴ Bᴇ Usᴇᴅ Bʏ Aɴʏ Gʀᴏᴜᴘ Mᴇᴍʙᴇʀ.
+• Tʜᴇsᴇ Cᴏᴍᴍᴀɴᴅs Cᴀɴ Bᴇ Usᴇᴅ Bʏ Aɴʏ Gʀᴏᴜᴘ Mᴇᴍʙᴇʀ.</b></i>
 
 <i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
     TTS_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Pᴀsᴛᴇ Mᴏᴅᴜʟᴇ ⍟</b></i>
@@ -241,51 +241,59 @@ Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 
 <i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 
-    JSON_TXT ="""<b>JSON:</b>
+    JSON_TXT ="""<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Tᴇʟᴇɢʀᴀᴘʜ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-Bot returns json for all replied messages with /json
+- Bᴏᴛ Rᴇᴛᴜʀɴs Jsᴏɴ Fᴏʀ Aʟʟ Rᴇᴘʟɪᴇᴅ Mᴇssᴀɢᴇs Wɪᴛʜ /json
 
-<b>Features:</b>
+<i><b>✯ Fᴇᴀᴛᴜʀᴇs :
 
-Message Editting JSON
-Pm Support
-Group Support
+Mᴇssᴀɢᴇ Eᴅɪᴛᴛɪɴɢ Jsᴏɴ
+Pᴍ Sᴜᴘᴘᴏʀᴛ
+Gʀᴏᴜᴘ Sᴜᴘᴘᴏʀᴛ</b></i>
 
-<b>Note:</b>
+<i><b>✯ Nᴏᴛᴇ:
 
-Everyone can use this command , if spaming happens bot will automatically ban you from the group."""
-    PURGE_TXT = """<b>Purge</b>
+- Eᴠᴇʀʏᴏɴᴇ Cᴀɴ Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ , Iғ Sᴘᴀᴍɪɴɢ Hᴀᴘᴘᴇɴs Bᴏᴛ Wɪʟʟ Aᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ Bᴀɴ Yᴏᴜ Fʀᴏᴍ Tʜᴇ Gʀᴏᴜᴘ.</b></i>
+
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
+    PURGE_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Sᴇᴀʀᴄʜ Mᴏᴅᴜʟᴇ ⍟</b></i>
     
-𝙳𝙴𝙻𝙴𝚃𝙴 𝙻𝙾𝚃 𝙾𝙵 𝙼𝙴𝚂𝚂𝙰𝙶𝙴𝚂 𝙵𝚁𝙾𝙼 𝙶𝚁𝙾𝚄𝙿! 
+» ɴᴇᴇᴅ ᴛᴏ ᴅᴇʟᴇᴛᴇ ʟᴏᴛs ᴏғ ᴍᴇssᴀɢᴇs? ᴛʜᴀᴛ's ᴡʜᴀᴛ ᴘᴜʀɢᴇs ᴀʀᴇ ғᴏʀ!
     
- <b>ADMIN</b> 
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇ</b></i> 
 
-◉ /purge :- Delete All Messages From The Replied To Message, To The Current Message"""
-    BUTTON_TXT = """Help: <b>Buttons</b>
+• /purge :- Dᴇʟᴇᴛᴇ Aʟʟ Mᴇssᴀɢᴇs Fʀᴏᴍ Tʜᴇ Rᴇᴘʟɪᴇᴅ Tᴏ Mᴇssᴀɢᴇ, Tᴏ Tʜᴇ Cᴜʀʀᴇɴᴛ Mᴇssᴀɢᴇ.
 
--LUNA Supports both url and alert inline buttons.
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
+    BUTTON_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Bᴜᴛᴛᴏɴ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-<b>NOTE:</b>
-1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. 𝙻𝚄𝙽𝙰 supports buttons with any telegram media type.
-3. Buttons should be properly parsed as markdown format
+✯ Usᴀɢᴇs:
 
-<b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/Tamil_moviesdaa)</code>
+• Tᴇʟᴇɢʀᴀᴍ Wɪʟʟ Nᴏᴛ Aʟʟᴏᴡs Yᴏᴜ Tᴏ Sᴇɴᴅ Bᴜᴛᴛᴏɴs Wɪᴛʜᴏᴜᴛ Aɴʏ Cᴏɴᴛᴇɴᴛ, Sᴏ Cᴏɴᴛᴇɴᴛ Is Mᴀɴᴅᴀᴛᴏʀʏ.
 
-<b>Alert buttons:</b>
-<code>[Button Text](buttonalert:This is an alert message)</code>"""
-    AUTOFILTER_TXT = """<b>𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙾𝙽/𝙾𝙵𝙵 𝙼𝙾𝙳𝚄𝙻𝙴..</b>
+• Bᴏᴛ Sᴜᴘᴘᴏʀᴛs Bᴜᴛᴛᴏɴs Wɪᴛʜ Aɴʏ Tᴇʟᴇɢʀᴀᴍ Tᴇᴅɪᴀ Tʏᴘᴇ.
 
-<b>𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝚂 𝚃𝙷𝙴 𝙵𝙴𝙰𝚃𝚄𝚁𝙴 𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙰𝙽𝙳 𝚂𝙰𝚅𝙴  𝚃𝙷?? 𝙵𝙸𝙻𝙴𝚂 𝙰𝚄𝚃𝙾𝙼𝙰𝚃𝙸𝙲𝙰𝙻𝙻𝚈 𝙵𝚁𝙾𝙼 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙶𝚁𝙾𝚄𝙿. 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙴 𝙵𝙾𝙻𝙻𝙾𝚆𝙸𝙽𝙶 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝚃𝙾 𝙾𝙽 𝙰𝙽𝙳 𝙾𝙵𝙵 𝚃𝙷𝙴 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿.../</b>
+• Bᴜᴛᴛᴏɴs Sʜᴏᴜʟᴅ Bᴇ Pʀᴏᴘᴇʀʟʏ Pᴀʀsᴇᴅ As Mᴀʀᴋᴅᴏᴡɴ Fᴏʀᴍᴀᴛ.
 
-<b>𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 :-
-<b>›› /autofilter on - 𝙴𝙽𝙰𝙱𝙻𝙴 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝙽 𝚃𝙷𝙴 𝙶𝚁𝙾𝚄𝙿𝚂.</b>
-<b>›› /autofilter off - 𝙳𝙸𝚂𝙰𝙱𝙻𝙴𝙳 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝙽 𝚃𝙷𝙴 𝙶𝚁𝙾𝚄𝙿𝚂.</b>
-<b>›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.</b>
-<b>›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.</b>
+<i><b>★ Uʀʟ Bᴜᴛᴛᴏɴs:</b></i>
 
-<b>𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/Tamil_moviesdaa>𝚃𝙰𝙼𝙸𝙻-𝙼𝙾𝚅𝙸𝙴𝚂</a></b>"""
+<code>[Button Text](buttonurl:https://t.me/Movies4youBackup)</code>
+
+<i><b>★ Aʟᴇʀᴛ Bᴜᴛᴛᴏɴs:</b></i>
+
+<code>[Button Text](buttonalert:ᴛʜɪs ɪs ᴀɴ ᴀʟᴇʀᴛ ᴍᴇssᴀɢᴇ)</code>
+
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
+    AUTOFILTER_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Aᴜᴛᴏ Fɪʟᴛᴇʀ Mᴏᴅᴜʟᴇ ⍟</b></i>
+
+✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:
+
+›› /autofilter on - <i><b>Eɴᴀʙʟᴇ Aᴜᴛᴏ Fɪʟᴛᴇʀ Iɴ Tʜᴇ Gʀᴏᴜᴘ.</b></i>
+›› /autofilter off - <i><b>Dɪsᴀʙʟᴇ Aᴜᴛᴏ Fɪʟᴛᴇʀ Iɴ Tʜᴇ Gʀᴏᴜᴘ.</b></i>
+›› /set_template - <i><b>Sᴇᴛ Cᴏsᴛᴜᴍ Iᴍᴅʙ Tᴀᴍᴘʟᴇᴛ Fᴏʀ Aᴜᴛᴏ Fɪʟᴛᴇʀ.</b></i>
+›› /get_template - <i><b>Gᴇᴛ Cᴜʀʀᴇɴᴛ Iᴍᴅʙ Tᴀᴍᴘʟᴇᴛ Oғ Aᴜᴛᴏ Fɪʟᴛᴇʀ.</b></i>
+
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
