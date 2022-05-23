@@ -233,11 +233,13 @@ Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 
 <i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 
-    PRIVATEBOT_TXT = """<b>𝚈𝙾𝚄 𝚃𝙷𝙸𝙽𝙺 [𝙻𝚄𝙽𝙰](https://telegra.ph/file/560494d82b5deadc1630d.mp4) 𝙼𝙴𝙰𝙽 𝙵𝙻𝙾𝚆𝙴𝚁 𝙽𝙾 𝙵𝙸𝚁𝙴🔥</b>
-<b>›› 𝙸𝙵 𝚈𝙾𝚄𝚁 𝙱𝙰𝙳 𝙸𝙰𝙼 𝚈𝙾𝚄𝚁 𝙳𝙰𝙳</b>
-<b>›› 𝙻𝚄𝙽𝙰 𝙸𝚂 𝙽𝙾𝚃 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃</b>
-<b>›› 𝙷𝙰𝚅𝙴 𝙰 𝙽𝙸𝙲𝙴 𝙳𝙰𝚈😍</b>
-<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/balaSmurugan>𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽</a></b>"""
+    PRIVATEBOT_TXT = """<i><b>✯ Pʀɪᴠᴀᴛᴇ Bᴏᴛ Fᴏʀ Yᴏᴜ
+<b>☞ Dᴏ Yᴏᴜ Wᴀɴᴛ A Bᴏᴛ Sᴀᴍᴇ Lɪᴋᴇ Tʜɪs</b>
+<b>☞ Wɪᴛʜ Aʟʟ Yᴏᴜʀ Cʀᴇᴅɪᴛs</b>
+<b>☞ Wɪᴛʜ Yᴏᴜʀ Oᴡɴᴇʀsʜɪᴘ</b>
+<b>☞ Cᴏɴᴛᴀᴄᴛ Mᴇ <a href=https://t.me/KingOf_univers>會؄𝚂𝚄𝚁𝙰𝙹؄會</a></b></i>"""
+
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️""""""
 
     JSON_TXT ="""<b>JSON:</b>
 
