@@ -26,9 +26,9 @@ Jᴏɪɴ: @Movies4youbackup ⚔️</b></i>"""
       /font (Tᴇxᴛ)
 
 <i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
-    PASSGEN_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ P-Gᴇɴ Mᴏᴅᴜʟᴇ ⍟</b>
+    PASSGEN_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ P-Gᴇɴ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-<b>★ Tʜᴇʀᴇ Is Nᴏᴛʜɪɴɢ Tᴏ Kɴᴏᴡ Mᴏʀᴇ. Sᴇɴᴅ Mᴇ Tʜᴇ Lɪᴍɪᴛ Oғ Yᴏᴜʀ Pᴀssᴡᴏʀᴅ.
+<i><b>★ Tʜᴇʀᴇ Is Nᴏᴛʜɪɴɢ Tᴏ Kɴᴏᴡ Mᴏʀᴇ. Sᴇɴᴅ Mᴇ Tʜᴇ Lɪᴍɪᴛ Oғ Yᴏᴜʀ Pᴀssᴡᴏʀᴅ.
 ★ I Wɪʟʟ Gɪᴠᴇ Tʜᴇ Pᴀssᴡᴏʀᴅ Oғ Tʜᴀᴛ Lɪᴍɪᴛ!
 
 ★ Nᴏᴛᴇ :
@@ -44,7 +44,7 @@ Jᴏɪɴ: @Movies4youbackup ⚔️</b></i>"""
    
     SHAZAM_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Sʜᴀᴢᴀᴍ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-<b>★ Hᴇʟᴘ= Hᴇʟᴘs Yᴏᴜ Tᴏ Rᴇᴄᴏɢɴɪᴢᴇ | Dɪsᴄᴏᴠᴇʀ A Sᴏɴɢ</b></i>
+<i><b>★ Hᴇʟᴘ= Hᴇʟᴘs Yᴏᴜ Tᴏ Rᴇᴄᴏɢɴɪᴢᴇ | Dɪsᴄᴏᴠᴇʀ A Sᴏɴɢ</b></i>
 <i><b>★ Us= Sᴇɴᴅ</b></i> /Shazam <i><b>(Rᴇᴘʟʏ Tᴏ A Sᴏɴɢ Fɪʟᴇ)</b></i>
 
 <i><b>- Wʜᴀᴛ's Tʜᴇ Usᴇ :</b></i>
@@ -128,7 +128,7 @@ Dᴏɴ'ᴛ Wᴏʀʀʏ Sᴇɴᴅ</b></i> /shazam
 
 <i><b>» Fɪʟᴛᴇʀ Is Tʜᴇ Fᴇᴀᴛᴜʀᴇ Wᴇʀᴇ Usᴇʀs Cᴀɴ Sᴇᴛ Aᴜᴛᴏᴍᴀᴛᴇᴅ Rᴇᴘʟɪᴇs Fᴏʀ A Pᴀʀᴛɪᴄᴜʟᴀʀ Kᴇʏᴡᴏʀᴅ.</b></i>
 
-<b>✯ Nᴏᴛᴇ:
+<i><b>✯ Nᴏᴛᴇ:
 
 • Bᴏᴛ Sʜᴏᴜʟᴅ Hᴀᴠᴇ Aᴅᴍɪɴ Pʀɪᴠɪʟʟᴀɢᴇ.
 • Oɴʟʏ Aᴅᴍɪɴs Cᴀɴ Aᴅᴅ Fɪʟᴛᴇʀs.</b></i>
@@ -145,7 +145,7 @@ Dᴏɴ'ᴛ Wᴏʀʀʏ Sᴇɴᴅ</b></i> /shazam
 
 - <i><b>Yᴛ Vɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ Mᴏᴅᴜʟᴇ, Fᴏʀᴇ Tʜᴏsᴇ Wʜᴏ Lᴏᴠᴇ Mᴜsɪᴄ. Yᴏᴜ Cᴀɴ Usᴇ Tʜɪs Fᴇᴀᴛᴜʀᴇ Fᴏʀ Dᴏᴡɴʟᴏᴀᴅ Aɴʏ Vɪᴅᴇᴏ Vᴏɪᴄᴇ Aɴᴅ Bɢᴍ Lɪᴋᴇ Yᴏᴜᴛᴜʙᴇ Wɪᴛʜ Sᴜᴘᴇʀ Fᴀsᴛ Sᴘᴇᴇᴅ.Wᴏʀᴋ Oɴʟʏ Oɴ Gʀᴏᴜᴘ.</b></i>
 
-- <i><b>Yᴏᴜ Cᴀɴ Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ Fᴏʀ Dᴏᴡɴʟᴏᴅɪɴɢ Vɪᴅᴇᴏs 𝙰𝙽𝙳 Sᴏɴɢ Wɪᴛʜ Hᴇʟᴘ Oғ Yᴏᴜᴛᴜʙᴇ</b></i>
+- <i><b>Yᴏᴜ Cᴀɴ Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ Fᴏʀ Dᴏᴡɴʟᴏᴅɪɴɢ Vɪᴅᴇᴏs Aɴᴅ Sᴏɴɢ Wɪᴛʜ Hᴇʟᴘ Oғ Yᴏᴜᴛᴜʙᴇ</b></i>
 
 <i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
@@ -158,12 +158,12 @@ Dᴏɴ'ᴛ Wᴏʀʀʏ Sᴇɴᴅ</b></i> /shazam
 Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
     PIN_TXT ="""<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Pɪɴ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-» Aʟʟ Tʜᴇ Pɪɴ Rᴇʟᴀᴛᴇᴅ Cᴏᴍᴍᴀɴᴅs Cᴀɴ Bᴇ Fᴏᴜɴᴅ Hᴇʀᴇ!
+<i>» Aʟʟ Tʜᴇ Pɪɴ Rᴇʟᴀᴛᴇᴅ Cᴏᴍᴍᴀɴᴅs Cᴀɴ Bᴇ Fᴏᴜɴᴅ Hᴇʀᴇ!</b></i>
 
 ✯ Nᴏᴛᴇ:
 
-- <i><b>Aᴅᴅ 'Lᴏᴜᴅ' Oʀ 'Nᴏᴛɪғʏ' Tᴏ Sᴇɴᴅ A Nᴏᴛɪғɪᴄᴀᴛɪᴏɴ Tᴏ Gʀᴏᴜᴘ Mᴇᴍʙᴇʀs.</b></i>
-- <i><b>Iғ</b></i> /unpin <i><b>Usᴇᴅ As A Rᴇᴘʟʏ, Uɴᴘɪɴs Tʜᴇ Rᴇᴘʟɪᴇᴅ Tᴏ Mᴇssᴀɢᴇ.</b></i>
+<i><b>- Aᴅᴅ 'Lᴏᴜᴅ' Oʀ 'Nᴏᴛɪғʏ' Tᴏ Sᴇɴᴅ A Nᴏᴛɪғɪᴄᴀᴛɪᴏɴ Tᴏ Gʀᴏᴜᴘ Mᴇᴍʙᴇʀs.</b></i>
+<i><b>- Iғ</b></i> /unpin <i><b>Usᴇᴅ As A Rᴇᴘʟʏ, Uɴᴘɪɴs Tʜᴇ Rᴇᴘʟɪᴇᴅ Tᴏ Mᴇssᴀɢᴇ.</b></i>
 
 <i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
@@ -171,27 +171,29 @@ Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 • /unpin :- <i><b>Uɴᴘɪɴ Tʜᴇ Cᴜʀʀᴇɴᴛ Pɪɴɴᴇᴅ Mᴇssᴀɢᴇ.</b></i>
 
 <i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
-    PASTE_TXT = """Help: <b>Paste</b>
+    PASTE_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Pᴀsᴛᴇ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-Paste some texts or documents on a website!
+<i><b>» ᴘᴀsᴛᴇ sᴏᴍᴇ ᴛᴇxᴛs ᴏʀ ᴅᴏᴄᴜᴍᴇɴᴛs ᴏɴ ᴀ ᴡᴇʙsɪᴛᴇ!</b></i>
 
-<b>Commands and Usage:</b>
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
-• /paste [text] - paste the given text on Pasty
+• /paste <i><b>[text] - Pᴀsᴛᴇ Tʜᴇ Gɪᴠᴇɴ Tᴇxᴛ Oɴ Pᴀsᴛʏ</b></i>
 
-<b>NOTE:</b>
+<i><b>✯ Nᴏᴛᴇ:
 
-• These commands works on both pm and group.
-• These commands can be used by any group member."""
-    TTS_TXT = """Help: <b> TTS 🎤 module:</b>
+• Tʜᴇsᴇ Cᴏᴍᴍᴀɴᴅs Wᴏʀᴋs ᴀᴏɴ ᴀʙᴏᴛʜ Pᴍ Aɴᴅ Gʀᴏᴜᴘ.
+• Tʜᴇsᴇ Cᴏᴍᴍᴀɴᴅs Cᴀɴ Bᴇ Usᴇᴅ Bʏ Aɴʏ Gʀᴏᴜᴘ Mᴇᴍʙᴇʀ.
 
-𝚃𝚁𝙰𝙽𝚂𝙻𝙰𝚃𝙴 𝚃𝙴𝚇𝚃 𝚃𝙾 𝚂𝙿𝙴𝙴𝙲𝙷
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
+    TTS_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Pᴀsᴛᴇ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-<b>Commands and Usage:</b>
+<i><b>• Tʀᴀɴsʟᴀᴛᴇ Tᴇxᴛ Tᴏ Sᴘᴇᴇᴄʜ</b></i>
 
-• /tts <text> : convert text to speech
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
-<b>NOTE:</b>
+• /tts <i><b><text> : Cᴏɴᴠᴇʀᴛ Tᴇxᴛ Tᴏ Sᴘᴇᴇᴄʜ</b></i>
+
+✯ Nᴏᴛᴇ:
 
 • IMDb should have admin privillage.
 • These commands works on both pm and group.
