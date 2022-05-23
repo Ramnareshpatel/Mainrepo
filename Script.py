@@ -237,9 +237,9 @@ Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 <b>☞ Dᴏ Yᴏᴜ Wᴀɴᴛ A Bᴏᴛ Sᴀᴍᴇ Lɪᴋᴇ Tʜɪs</b>
 <b>☞ Wɪᴛʜ Aʟʟ Yᴏᴜʀ Cʀᴇᴅɪᴛs</b>
 <b>☞ Wɪᴛʜ Yᴏᴜʀ Oᴡɴᴇʀsʜɪᴘ</b>
-<b>☞ Cᴏɴᴛᴀᴄᴛ Mᴇ <a href=https://t.me/KingOf_univers>會؄𝚂𝚄𝚁𝙰𝙹؄會</a></b></i>"""
+<b>☞ Cᴏɴᴛᴀᴄᴛ Mᴇ <a href=https://t.me/KingOf_univers>會؄𝚂𝚄𝚁𝙰𝙹؄會</a></b></i>
 
-<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️""""""
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 
     JSON_TXT ="""<b>JSON:</b>
 
