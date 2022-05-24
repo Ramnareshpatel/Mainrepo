@@ -90,7 +90,7 @@ async def fil_mod(client, message):
 
       if args in mode_on:
           FILTER_MODE[str(message.chat.id)] = "True" 
-          await m.edit(<i>"**AᴜᴛᴏFɪʟᴛᴇʀ Eɴᴀʙʟᴇᴅ**</i>")
+          await m.edit("<i>**AᴜᴛᴏFɪʟᴛᴇʀ Eɴᴀʙʟᴇᴅ**</i>")
       
       elif args in mode_of:
           FILTER_MODE[str(message.chat.id)] = "False"
