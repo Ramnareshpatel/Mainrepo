@@ -209,7 +209,7 @@ Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 • /commands <i><b>- Tᴏ Gᴇᴛ Hᴇʟᴘ.</b></i>
 • /ping <i><b>- Tᴏ Gᴇᴛ Yᴏᴜʀ Pɪɴɢ.</b></i>
 • /channel <i><b>- Cʜᴀɴɴᴇʟ Dᴇᴛᴀɪʟs.</b></i>
-• /suraj <i><b>- Bᴏᴛ Lɪɴᴋ.</b></i>
+• /melody <i><b>- Bᴏᴛ Lɪɴᴋ.</b></i>
 
 <i><b>✯ Usᴀɢᴇ :
 
