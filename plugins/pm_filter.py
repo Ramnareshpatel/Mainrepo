@@ -1444,12 +1444,18 @@ async def auto_filter(client, msg, spoll=False):
         BUTTONS[key] = search
         req = message.from_user.id if message.from_user else 0
         btn.append(
-            [InlineKeyboardButton(text=f"🌹 ᏢᎪᏀᎬ 1/{round(int(total_results) / 10)}", callback_data="pages"),
-             InlineKeyboardButton(text="ΝᎬХͲ ➡️", callback_data=f"next_{req}_{key}_{offset}")]
+            [InlineKeyboardButton(text=f"💠 1/{round(int(total_results) / 10)}", callback_data="pages"),
+             InlineKeyboardButton(text="ɴᴇxᴛ 🛡️", callback_data=f"next_{req}_{key}_{offset}")]
+        )
+        btn.insert(0,
+            [InlineKeyboardButton(text="🎀 ᴊᴏɪɴ ᴏᴜʀ ᴄᴀɴɴᴇʟ 🎀",url="https://t.me/Movies4youBackup")]
         )
     else:
         btn.append(
-            [InlineKeyboardButton(text="🌹 ᏢᎪᏀᎬ 1/1", callback_data="pages")]
+            [InlineKeyboardButton(text="💠 1/1", callback_data="pages")]
+        )
+        btn.insert(0,
+            [InlineKeyboardButton(text="🎀 ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ 🎀",url="https://t.me/Movies4youBackup")]
         )
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']
