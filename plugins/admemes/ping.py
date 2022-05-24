@@ -8,10 +8,10 @@ from info import COMMAND_HAND_LER
 from plugins.helper_functions.cust_p_filters import f_onw_fliter
 
 # -- Constants -- #
-ALIVE = "𝚈𝙾𝚄 𝙰𝚁𝙴 𝙽𝙾𝚃 𝙳𝙴𝙰𝙳. 𝚈𝙾𝚄𝚁 𝙰𝚁𝙴 𝚂𝚃𝙸𝙻𝙻 𝙷𝙴𝚁𝙴. 𝚈𝙾𝚄 𝙷𝙰𝚅𝙴 𝙽𝙾 𝙻𝙾𝚅𝙴 𝙵𝙾𝚁 𝙼𝙴 𝙽𝙾𝚆 𝙾𝙺𝙰𝚈 .. 𝚈𝙾𝚄'𝚛𝚎 𝙽𝙾𝚃 𝙲𝙷𝙰𝙽𝙶𝙴𝙳 𝙻𝙸𝙺𝙴 𝚈𝙾𝚄 𝚄𝚂𝙴𝙳 𝚃𝙾 𝙱𝙴 .. 𝙹𝚄𝚂𝚃 𝚂𝚃𝙰𝚁𝚃 /start 𝙾𝙽𝙴 𝙰𝚃 𝙰 𝚃𝙸𝙼𝙴.."
-REPO = "<b>𝚃𝙷𝙸𝚂 𝙸𝚂 𝙽𝙾𝚃 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃 </b>"
-CHANNEL = "<b>𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</b> ›› https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA\n\n<b>𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</b> ›› https://t.me/Tamil_moviesdaa\n\n<b>𝙲𝙷𝙰𝙽𝙽𝙴𝙻</b> ›› https://t.me/RBLunainline\n\n<b>𝙻𝚄𝙽𝙰-𝙻𝙴𝙴𝙲𝙷-𝚉𝙾𝙽𝙴</b> ›› https://t.me/lunamirror"
-JOKER = "<b>𝙱𝙾𝚃 ›› https://t.me/rb_luna_bot</b>"
+ALIVE = "**🙂 Yᴏᴜ Aʀᴇ Nᴏᴛ Dᴇᴀᴅ.Yᴏᴜ Aʀᴇ Sᴛɪʟʟ Hᴇʀᴇ.Yᴏᴜ Hᴀᴠᴇ Nᴏ Lᴏᴠᴇ Fᴏʀ Mᴇ Nᴏᴡ Oᴋᴀʏ ❤️... Yᴏᴜ'ʀᴇ Nᴏᴛ Cʜᴀɴɢᴇᴅ Lɪᴋᴇ Yᴏᴜ Usᴇᴅ Tᴏ Bᴇ...Jᴜsᴛ Sᴛᴀʀᴛ 🥰 /start Oɴᴇ Aᴛ A Tɪᴍᴇ...**"
+REPO = "<b>Tʜɪs Nᴏᴛᴇ A Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏɪᴇᴄᴛ 😋 </b>"
+CHANNEL = "<b>😇Mᴏᴠɪᴇs𝟺ʏᴏᴜBᴀᴄᴋᴜᴘ</b> ›› https://t.me/Movies4youBackup\n\n<b>🥰 Mᴏᴠɪᴇs 4 ʏᴏᴜ</b> ›› https://t.me/Movies_4you\n\n<b>😎 Mʏ Fᴀᴛʜᴇʀ</b> ›› https://t.me/KingOf_univers"
+JOKER = "<b>Mᴇʟᴏᴅʏ ›› http://t.me/Melody_AutoFilterBot</b>"
 # -- Constants End -- #
 
 
@@ -44,7 +44,7 @@ async def channel(_, message):
     await message.reply_text(CHANNEL)
 
 
-@Client.on_message(filters.command("luna", COMMAND_HAND_LER) & f_onw_fliter)
+@Client.on_message(filters.command("melody", COMMAND_HAND_LER) & f_onw_fliter)
 async def joker(_, message):
     await message.reply_text(JOKER)
 
