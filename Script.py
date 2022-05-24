@@ -206,7 +206,6 @@ Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 
 <i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇ</b></i>
 • /alive <i><b>- Tᴏ ᴄʜᴇᴄᴋ Yᴏᴜ Aʀᴇ Aʟɪᴠᴇ.</b></i>
-• /commands <i><b>- Tᴏ Gᴇᴛ Hᴇʟᴘ.</b></i>
 • /ping <i><b>- Tᴏ Gᴇᴛ Yᴏᴜʀ Pɪɴɢ.</b></i>
 • /channel <i><b>- Cʜᴀɴɴᴇʟ Dᴇᴛᴀɪʟs.</b></i>
 • /melody <i><b>- Bᴏᴛ Lɪɴᴋ.</b></i>
