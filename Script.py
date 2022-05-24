@@ -160,7 +160,7 @@ Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 
 <i>» Aʟʟ Tʜᴇ Pɪɴ Rᴇʟᴀᴛᴇᴅ Cᴏᴍᴍᴀɴᴅs Cᴀɴ Bᴇ Fᴏᴜɴᴅ Hᴇʀᴇ!</b></i>
 
-✯ Nᴏᴛᴇ:
+<i><b>✯ Nᴏᴛᴇ:</b></i>
 
 <i><b>- Aᴅᴅ 'Lᴏᴜᴅ' Oʀ 'Nᴏᴛɪғʏ' Tᴏ Sᴇɴᴅ A Nᴏᴛɪғɪᴄᴀᴛɪᴏɴ Tᴏ Gʀᴏᴜᴘ Mᴇᴍʙᴇʀs.</b></i>
 <i><b>- Iғ</b></i> /unpin <i><b>Usᴇᴅ As A Rᴇᴘʟʏ, Uɴᴘɪɴs Tʜᴇ Rᴇᴘʟɪᴇᴅ Tᴏ Mᴇssᴀɢᴇ.</b></i>
@@ -205,11 +205,11 @@ Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 <i><b>- Hᴇʟᴘs Yᴏᴜ Tᴏ Kɴᴏᴡ Yᴏᴜʀ Pɪɴɢ</b></i>
 
 <i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇ</b></i>
-• /alive - Tᴏ ᴄʜᴇᴄᴋ Yᴏᴜ Aʀᴇ Aʟɪᴠᴇ.
-• /commands - Tᴏ Gᴇᴛ Hᴇʟᴘ.
-• /ping - Tᴏ Gᴇᴛ Yᴏᴜʀ Pɪɴɢ.
-• /channel - Cʜᴀɴɴᴇʟ Dᴇᴛᴀɪʟs.
-• /suraj - Bᴏᴛ Lɪɴᴋ.
+• /alive <i><b>- Tᴏ ᴄʜᴇᴄᴋ Yᴏᴜ Aʀᴇ Aʟɪᴠᴇ.</b></i>
+• /commands <i><b>- Tᴏ Gᴇᴛ Hᴇʟᴘ.</b></i>
+• /ping <i><b>- Tᴏ Gᴇᴛ Yᴏᴜʀ Pɪɴɢ.</b></i>
+• /channel <i><b>- Cʜᴀɴɴᴇʟ Dᴇᴛᴀɪʟs.</b></i>
+• /suraj <i><b>- Bᴏᴛ Lɪɴᴋ.</b></i>
 
 <i><b>✯ Usᴀɢᴇ :
 
@@ -243,7 +243,7 @@ Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 
     JSON_TXT ="""<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Tᴇʟᴇɢʀᴀᴘʜ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-- Bᴏᴛ Rᴇᴛᴜʀɴs Jsᴏɴ Fᴏʀ Aʟʟ Rᴇᴘʟɪᴇᴅ Mᴇssᴀɢᴇs Wɪᴛʜ /json
+<i><b>- Bᴏᴛ Rᴇᴛᴜʀɴs Jsᴏɴ Fᴏʀ Aʟʟ Rᴇᴘʟɪᴇᴅ Mᴇssᴀɢᴇs Wɪᴛʜ</b></i> /json
 
 <i><b>✯ Fᴇᴀᴛᴜʀᴇs :
 
@@ -258,22 +258,22 @@ Gʀᴏᴜᴘ Sᴜᴘᴘᴏʀᴛ</b></i>
 <i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
     PURGE_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Sᴇᴀʀᴄʜ Mᴏᴅᴜʟᴇ ⍟</b></i>
     
-» ɴᴇᴇᴅ ᴛᴏ ᴅᴇʟᴇᴛᴇ ʟᴏᴛs ᴏғ ᴍᴇssᴀɢᴇs? ᴛʜᴀᴛ's ᴡʜᴀᴛ ᴘᴜʀɢᴇs ᴀʀᴇ ғᴏʀ!
+<i><b>» Nᴇᴇᴅ Tᴏ Dᴇʟᴇᴛᴇ Lᴏᴛs Oғ Mᴇssᴀɢᴇs? Tʜᴀᴛ's Wʜᴀᴛ Pᴜʀɢᴇs Aʀᴇ Fᴏʀ!</b></i>
     
 <i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇ</b></i> 
 
-• /purge :- Dᴇʟᴇᴛᴇ Aʟʟ Mᴇssᴀɢᴇs Fʀᴏᴍ Tʜᴇ Rᴇᴘʟɪᴇᴅ Tᴏ Mᴇssᴀɢᴇ, Tᴏ Tʜᴇ Cᴜʀʀᴇɴᴛ Mᴇssᴀɢᴇ.
+• /purge <i><b>:- Dᴇʟᴇᴛᴇ Aʟʟ Mᴇssᴀɢᴇs Fʀᴏᴍ Tʜᴇ Rᴇᴘʟɪᴇᴅ Tᴏ Mᴇssᴀɢᴇ, Tᴏ Tʜᴇ Cᴜʀʀᴇɴᴛ Mᴇssᴀɢᴇ.</b></i>
 
 <i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
     BUTTON_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Bᴜᴛᴛᴏɴ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-✯ Usᴀɢᴇs:
+<i><b>✯ Usᴀɢᴇs:
 
 • Tᴇʟᴇɢʀᴀᴍ Wɪʟʟ Nᴏᴛ Aʟʟᴏᴡs Yᴏᴜ Tᴏ Sᴇɴᴅ Bᴜᴛᴛᴏɴs Wɪᴛʜᴏᴜᴛ Aɴʏ Cᴏɴᴛᴇɴᴛ, Sᴏ Cᴏɴᴛᴇɴᴛ Is Mᴀɴᴅᴀᴛᴏʀʏ.
 
 • Bᴏᴛ Sᴜᴘᴘᴏʀᴛs Bᴜᴛᴛᴏɴs Wɪᴛʜ Aɴʏ Tᴇʟᴇɢʀᴀᴍ Tᴇᴅɪᴀ Tʏᴘᴇ.
 
-• Bᴜᴛᴛᴏɴs Sʜᴏᴜʟᴅ Bᴇ Pʀᴏᴘᴇʀʟʏ Pᴀʀsᴇᴅ As Mᴀʀᴋᴅᴏᴡɴ Fᴏʀᴍᴀᴛ.
+• Bᴜᴛᴛᴏɴs Sʜᴏᴜʟᴅ Bᴇ Pʀᴏᴘᴇʀʟʏ Pᴀʀsᴇᴅ As Mᴀʀᴋᴅᴏᴡɴ Fᴏʀᴍᴀᴛ.</b></i>
 
 <i><b>★ Uʀʟ Bᴜᴛᴛᴏɴs:</b></i>
 
@@ -296,8 +296,8 @@ Gʀᴏᴜᴘ Sᴜᴘᴘᴏʀᴛ</b></i>
 <i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
     CONNECTION_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Cᴏɴɴᴇᴄᴛɪᴏɴs Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-» Usᴇᴅ Tᴏ Cᴏɴɴᴇᴄᴛ Bᴏᴛ Tᴏ Pᴍ Fᴏʀ Fɪʟᴛᴇʀs.
-» Iᴛ Hᴇʟᴘs Tᴏ Aᴠᴏɪᴅ Sᴘᴀᴍᴍɪɴɢ Iɴ Gʀᴏᴜᴘs.
+<i><b>» Usᴇᴅ Tᴏ Cᴏɴɴᴇᴄᴛ Bᴏᴛ Tᴏ Pᴍ Fᴏʀ Fɪʟᴛᴇʀs.
+» Iᴛ Hᴇʟᴘs Tᴏ Aᴠᴏɪᴅ Sᴘᴀᴍᴍɪɴɢ Iɴ Gʀᴏᴜᴘs.</b></i>
 
 <i><b>✯ Nᴏᴛᴇ:
 
@@ -306,9 +306,9 @@ Gʀᴏᴜᴘ Sᴜᴘᴘᴏʀᴛ</b></i>
 
 <i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
-• /connect  - Cᴏɴɴᴇᴄᴛ A Aɴʏ Cʜᴀᴛ.
-• /disconnect  - Dɪsᴄᴏɴɴᴇᴄᴛ Fʀᴏᴍ A Cʜᴀᴛ.
-• /connections - Lɪsᴛ Aʟʟ Cᴏɴɴᴇᴄᴛɪᴏɴs.
+• /connect  <i><b>- Cᴏɴɴᴇᴄᴛ A Aɴʏ Cʜᴀᴛ.</b></i>
+• /disconnect  <i><b>- Dɪsᴄᴏɴɴᴇᴄᴛ Fʀᴏᴍ A Cʜᴀᴛ.</b></i>
+• /connections <i><b>- Lɪsᴛ Aʟʟ Cᴏɴɴᴇᴄᴛɪᴏɴs.</b></i>
 
 <i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
     EXTRAMOD_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Exᴛʀᴀ Mᴏᴅᴜʟᴇ ⍟</b></i>
@@ -362,9 +362,7 @@ Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋ Fᴏʀ Mʏ Aᴅᴍɪɴs</b></i>
 
 ✯ Mʏ Gʀᴏᴜᴘ: <a href=https://t.me/Movies_4you>Mᴏᴠɪᴇs 4 ʏᴏᴜ</a>
 
-✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: ᴠ3.0.1 [Sᴛᴀʙʟᴇ]</b></i>
-
-<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
+✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: ᴠ3.0.1 [Sᴛᴀʙʟᴇ]</b></i>"""
     LOG_TEXT_G = """ΝᎬᏔᏀᎡϴႮᏢ
     
 <b>★ 𝐆𝐫𝐨𝐮𝐩 ⪼ {}(<code>{}</code>)</b>
@@ -416,92 +414,105 @@ Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋ Fᴏʀ Mʏ Aᴅᴍɪɴs</b></i>
 
 <i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
-• Tʏᴘᴇ /video or /mp4 Aɴᴅ (https://youtu.be/9RShig3kH3E)
+• <i><b>Tʏᴘᴇ</b></i> /video or /mp4 <i><b>Aɴᴅ</b></i> (https://youtu.be/9RShig3kH3E)
 
-✯ ᴇxᴀᴍᴘʟᴇ:
+<i><b>✯ ᴇxᴀᴍᴘʟᴇ:</b></i>
 <code>/mp4 https://youtu.be/Chuvm126KPA</code>
-<code>/video https://youtu.be/CPudm126KPA</code>"""
+<code>/video https://youtu.be/CPudm126KPA</code>
 
-    ZOMBIES_TXT = """𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙺𝙸𝙲𝙺 𝚄𝚂𝙴𝚁𝚂
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 
-<b>Kick incative members from group. Add me as admin with ban users permission in group.</b>
+    ZOMBIES_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Zᴏᴍʙɪᴇs Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-<b>Commands and Usage:</b>
-• /inkick - command with required arguments and i will kick members from group.
-• /instatus - to check current status of chat member from group.
-• /inkick within_month long_time_ago - to kick users who are offline for more than 6-7 days.
-• /inkick long_time_ago - to kick members who are offline for more than a month and Deleted Accounts.
-• /dkick - to kick deleted accounts."""
+<i><b>» Kɪᴄᴋ Iɴᴄᴀᴛɪᴠᴇ Mᴇᴍʙᴇʀs Fʀᴏᴍ Gʀᴏᴜᴘ. Aᴅᴅ Mᴇ As Aᴅᴍɪɴ Wɪᴛʜ Bᴀɴ Usᴇʀs Pᴇʀᴍɪssɪᴏɴ Iɴ Gʀᴏᴜᴘ!</b></i>
 
-    IMAGE_TXT = """➤ 𝐇𝐞𝐥𝐩: Iᴍᴀɢᴇ
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
-𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚎𝚍𝚒𝚝 𝚒𝚖𝚊𝚐𝚎 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚒𝚕𝚢 
+• /inkick <i><b>- Cᴏᴍᴍᴀɴᴅ Wɪᴛʜ Rᴇϙᴜɪʀᴇᴅ Aʀɢᴜᴍᴇɴᴛs Aɴᴅ I Wɪʟʟ Kɪᴄᴋ Mᴇᴍʙᴇʀs Fʀᴏᴍ Gʀᴏᴜᴘ.</b></i>
+• /instatus <i><b>- Tᴏ Cʜᴇᴄᴋ Cᴜʀʀᴇɴᴛ Sᴛᴀᴛᴜs Oғ Cʜᴀᴛ Mᴇᴍʙᴇʀ Fʀᴏᴍ Gʀᴏᴜᴘ.</b></i>
+• /inkick within_month long_time_ago <i><b>- Tᴏ Kɪᴄᴋ Usᴇʀs Wʜᴏ Aʀᴇ Oғғʟɪɴᴇ Fᴏʀ Mᴏʀᴇ Tʜᴀɴ 6-7 Dᴀʏs.</b></i>
+• /inkick long_time_ago <i><b>- Tᴏ Kɪᴄᴋ Mᴇᴍʙᴇʀs Wʜᴏ Aʀᴇ Oғғʟɪɴᴇ Fᴏʀ Mᴏʀᴇ Tʜᴀɴ A Mᴏɴᴛʜ Aɴᴅ Dᴇʟᴇᴛᴇᴅ Aᴄᴄᴏᴜɴᴛs.</b></i>
+• /dckick <i><b>- Tᴏ Kɪᴄᴋ Dᴇʟᴇᴛᴇᴅ Aᴄᴄᴏᴜɴᴛs.</b></i>
 
-➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 
-➪ 𝙹𝚄𝚂𝚃 𝚂𝙴𝙽𝙳 𝙼𝙴 𝙰 𝙸𝙼𝙰𝙶𝙴 𝚃𝙾 𝙴𝙳𝙸𝚃 ✨
+    IMAGE_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Iᴍᴀɢᴇ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/Tamil_moviesdaa>𝙻𝚄𝙽𝙰 𝚂𝚄𝙿𝙿𝙾𝚁𝚃</a>"""
+<i><b>- Tʜɪs Cᴏᴍᴍᴀɴᴅ Hᴇʟᴘs Yᴏᴜ Tᴏ Eᴅɪᴛ Iᴍᴀɢᴇ Vᴇʀʏ Eᴀsɪʟʏ.</b></i> 
 
-    STICKER_TXT = """𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.
-• 𝐔𝐒𝐀𝐆𝐄
-𝚃𝙾 𝙶𝙴𝚃 𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙸𝙳
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
+
+• <i><b>Jᴜsᴛ Sᴇɴᴅ Mᴇ A Iᴍᴀɢᴇ Tᴏ Eᴅɪᴛ.</b></i>
+
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
+
+    STICKER_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Sᴛɪᴄᴋᴇʀ Mᴏᴅᴜʟᴇ ⍟</b></i>
+
+<i><b>- Tʜɪs Cᴏᴍᴍᴀɴᴅ Hᴇʟᴘs Yᴏᴜ Tᴏ Gᴇᴛ Sᴛɪᴄᴋᴇʀ Iᴅ.</b></i>
  
-  ⭕ 𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
-◉ 𝚁𝚎𝚙𝚕𝚊𝚢 𝚝𝚘 𝚜𝚝𝚒𝚌𝚔𝚎𝚛 [/stickerid]"""
+• <i><b>Rᴇᴘʟʏ Tᴏ Sᴛɪᴄᴋᴇʀ</b></i> [/stickerid]
 
-    YTTHUMB_TXT = """𝙷𝙴𝙻𝙿𝚂 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙰𝙽𝚈 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝚅𝙸𝙳𝙴𝙾 𝚃𝙷𝚄𝙼𝙱𝙽𝙰𝙸𝙻
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
+
+    YTTHUMB_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Yᴛ-Tʜᴜᴍʙ Mᴏᴅᴜʟᴇ ⍟</b></i>
     
-⭕𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
-𝘛𝘺𝘱𝘦 /ytthumb 𝘈𝘯𝘥 𝘝𝘪𝘥𝘦𝘰 𝘓𝘪𝘯𝘬
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
-• 𝘌𝘹𝘢𝘮𝘱𝘭𝘦
-<code>/ytthumb https://youtu.be/CPuvm126KPA</code>"""
+• <i><b>Tʏᴘᴇ</b></i> /ytthumb <i><b>Aɴᴅ Vɪᴅᴇᴏ Lɪɴᴋ.</b></i>
 
-    ABOOK_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖠𝗎𝖽𝗂𝗈𝖻𝗈𝗈𝗄
+<i><b>✯ ᴇxᴀᴍᴘʟᴇ :</b></i>
+<code>/ytthumb https://youtu.be/CPuEm126KPA</code>
 
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚌𝚘𝚗𝚟𝚎𝚛𝚝 𝚊 𝙿𝙳𝙵 𝚏𝚒𝚕𝚎 𝚝𝚘 𝚊 𝚊𝚞𝚍𝚒𝚘 𝚏𝚒𝚕𝚎 𝚠𝚒𝚝𝚑 𝚝𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 ✯
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 
-➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
+    ABOOK_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Aᴜᴅɪᴏʙᴏᴏᴋ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-➪ /audiobook: 𝖱𝖾𝗉𝗅𝗒 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗍𝗈 𝖺𝗇𝗒 𝖯𝖣𝖥 𝗍𝗈 𝗀𝖾𝗇𝖾𝗋𝖺𝗍𝖾 𝗍𝗁𝖾 𝖺𝗎𝖽𝗂𝗈"""
+<i><b>- Yᴏᴜ Cᴀɴ Cᴏɴᴠᴇʀᴛ A Pᴅғ Fɪʟᴇ Tᴏ A Aᴜᴅɪᴏ Fɪʟᴇ Wɪᴛʜ Tʜɪs Cᴏᴍᴍᴀɴᴅ.</b></i>
 
-    GTRANS_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖦𝗈𝗈𝗀𝗅𝖾 𝖳𝗋𝖺𝗇𝗌𝗅𝖺𝗍𝖾𝗋
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
-𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚝𝚛𝚊𝚗𝚜𝚕𝚊𝚝𝚎 𝚊 𝚝𝚎𝚡𝚝 𝚝𝚘 𝖺𝗇𝗒 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝. 𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚠𝚘𝚛𝚔𝚜 𝚘𝚗 𝚋𝚘𝚝𝚑 𝚙𝚖 𝚊𝚗𝚍 𝚐𝚛𝚘𝚞𝚙 ✯
+• /audiobook<i><b>: Rᴇᴘʟʏ Tʜɪs Cᴏᴍᴍᴀɴᴅ Tᴏ Aɴʏ Pᴅғ Tᴏ Gᴇɴᴇʀᴀᴛᴇ Tʜᴇ Aᴜᴅɪᴏ.</b></i>
 
-➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
 
-➪/tr - 𝖳𝗈 𝗍𝗋𝖺𝗇𝗌𝗅𝖺𝗍𝖾𝗋 𝗍𝖾𝗑𝗍𝗌 𝗍𝗈 𝖺 𝗌𝗉𝖾𝖼𝗂𝖿𝖼 𝗅𝖺𝗇𝗀𝗎𝖺𝗀𝖾
+    GTRANS_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Gᴏᴏɢʟᴇ Tʀᴀɴsʟᴀᴛᴇʀ Mᴏᴅᴜʟᴇ ⍟</b></i>
 
-➤ 𝖭𝗈𝗍𝖾:
-𝖶𝗁𝗂𝗅𝖾 𝗎𝗌𝗂𝗇𝗀 /tr 𝗒𝗈𝗎 𝗌𝗁𝗈𝗎𝗅𝖽 𝗌𝗉𝖾𝖼𝗂𝖿𝗒 𝗍𝗁𝖾 𝗅𝖺𝗇𝗀𝗎𝖺𝗀𝖾 𝖼𝗈𝖽𝖾
+<i><b>- Tʜɪs Cᴏᴍᴍᴀɴᴅ Hᴇʟᴘs Yᴏᴜ Tᴏ Tʀᴀɴsʟᴀᴛᴇ A Tᴇxᴛ Tᴏ Aɴʏ Lᴀɴɢᴜᴀɢᴇ Yᴏᴜ Wᴀɴᴛ.Tʜɪs Cᴏᴍᴍᴀɴᴅ Wᴏʀᴋ Oɴ Bᴏᴛʜ Pᴍ Aɴᴅ Gʀᴏᴜᴘ.</b></i>
 
-➛𝖤𝗑𝖺𝗆𝗉𝗅𝖾: /𝗍𝗋 𝗆𝗅
-• 𝖾𝗇 = 𝖤𝗇𝗀𝗅𝗂𝗌𝗁
-• 𝗆𝗅 = 𝖬𝖺𝗅𝖺𝗒𝖺𝗅𝖺𝗆
-• 𝗁𝗂 = 𝖧𝗂𝗇𝖽𝗂"""
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
 
-    RESTRIC_TXT = """➤ 𝐇𝐞𝐥𝐩: Mᴜᴛᴇ 🚫
+•/tr - <i><b>Tᴏ Tʀᴀɴsʟᴀᴛᴇ Tᴇxᴛs Tᴏ A Sᴘᴇᴄɪғɪᴄ Lᴀɴɢᴜᴀɢᴇ.</b></i>
 
-𝚃𝚑𝚎𝚜𝚎 𝚊𝚛𝚎 𝚝𝚑𝚎 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚊 𝚐𝚛𝚘𝚞𝚙 𝚊𝚍𝚖𝚒𝚗 𝚌𝚊𝚗 𝚞𝚜𝚎 𝚝𝚘 𝚖𝚊𝚗𝚊𝚐𝚎 𝚝𝚑𝚎𝚒𝚛 𝚐𝚛𝚘𝚞𝚙 𝚖𝚘𝚛𝚎 𝚎𝚏𝚏𝚒𝚌𝚒𝚎𝚗𝚝𝚕𝚢.
+<i><b>✯ Nᴏᴛᴇ :
 
-➪/ban: 𝖳𝗈 𝖻𝖺𝗇 𝖺 𝗎𝗌𝖾𝗋 𝖿𝗋𝗈𝗆 𝗍𝗁𝖾 𝗀𝗋𝗈𝗎𝗉.
-➪/unban: 𝖳𝗈 𝗎𝗇𝖻𝖺𝗇 𝖺 𝗎𝗌𝖾𝗋 𝗂𝗇 𝗍𝗁𝖾 𝗀𝗋𝗈𝗎𝗉.
-➪/tban: 𝖳𝗈 𝗍𝖾𝗆𝗉𝗈𝗋𝖺𝗋𝗂𝗅𝗒 𝖻𝖺𝗇 𝖺 𝗎𝗌𝖾𝗋.
-➪/mute: 𝖳𝗈 𝗆𝗎𝗍𝖾 𝖺 𝗎𝗌𝖾𝗋 𝗂𝗇 𝗍𝗁𝖾 𝗀𝗋𝗈𝗎𝗉.
-➪/unmute: 𝖳𝗈 𝗎𝗇𝗆𝗎𝗍𝖾 𝖺 𝗎𝗌𝖾𝗋 𝗂𝗇 𝗍𝗁𝖾 𝗀𝗋𝗈𝗎𝗉.
-➪/tmute: 𝖳𝗈 𝗍𝖾𝗆𝗉𝗈𝗋𝖺𝗋𝗂𝗅𝗒 𝗆𝗎𝗍𝖾 𝖺 𝗎𝗌𝖾𝗋.
+Wʜɪʟᴇ Usɪɴɢ</b></i> /tr <i><b>Yᴏᴜ Sʜᴏᴜʟᴅ Sᴘᴇᴄɪғʏ Tʜᴇ Lᴀɴɢᴜᴀɢᴇ Cᴏᴅᴇ.</b></i>
 
-➤ 𝖭𝗈𝗍𝖾:
-𝖶𝗁𝗂𝗅𝖾 𝗎𝗌𝗂𝗇𝗀 /tmute 𝗈𝗋 /tban 𝗒𝗈𝗎 𝗌𝗁𝗈𝗎𝗅𝖽 𝗌𝗉𝖾𝖼𝗂𝖿𝗒 𝗍𝗁𝖾 𝗍𝗂𝗆𝖾 𝗅𝗂𝗆𝗂𝗍.
+<i><b>✯ ᴇxᴀᴍᴘʟᴇ : [<code>/tr hi</code>]</b></i>
+• 𝗁𝗂 = Hɪɴᴅɪ
+• 𝖾𝗇 = Eɴɢʟɪsʜ
+• 𝗆𝗅 = Mᴀʟᴀʏᴀʟᴀᴍ
 
-➛𝖤𝗑𝖺𝗆𝗉𝗅𝖾: /𝗍𝖻𝖺𝗇 2𝖽 𝗈𝗋 /𝗍𝗆𝗎𝗍𝖾 2𝖽.
-𝖸𝗈𝗎 𝖼𝖺𝗇 𝗎𝗌𝖾 𝗏𝖺𝗅𝗎𝖾𝗌: 𝗆/𝗁/𝖽. 
- • 𝗆 = 𝗆𝗂𝗇𝗎𝗍𝖾𝗌
- • 𝗁 = 𝗁𝗈𝗎𝗋𝗌
- • 𝖽 = 𝖽𝖺𝗒𝗌"""
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
+
+    RESTRIC_TXT = """<i><b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Rᴇsᴛʀɪᴄᴛɪᴏɴs Mᴏᴅᴜʟᴇ ⍟</b></i>
+
+» Sᴏᴍᴇ apᴇᴏᴘʟᴇ Nᴇᴇᴅ Tᴏ ʙᴇ Pᴜʙʟɪᴄʟʏ Bᴀɴɴᴇᴅ; Tʜɪs Mᴏᴅᴜʟᴇ Aʟʟᴏᴡs Yᴏᴜ Tᴏ Dᴏ Tʜᴀᴛ Eᴀsɪʟʏ!
+
+<i><b>✯ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇs:</b></i>
+
+• /ban <i><b>- Bᴀɴ A Usᴇʀ.</b></i>
+• /tban <i><b>- Tᴇᴍᴘᴏʀᴀʀɪʟʏ Bᴀɴ A Usᴇʀ. Exᴀᴍᴘʟᴇ Tɪᴍᴇ Vᴀʟᴜᴇs: 4ᴍ = 4 Mɪɴᴜᴛᴇs, 3ʜ = 3 Hᴏᴜʀs, 6ᴅ = 6 Dᴀʏs, 5ᴡ = 5 Wᴇᴇᴋs.</b></i>
+• /mute <i><b>- Mᴜᴛᴇ A Usᴇʀ.</b></i>
+• /tmute <i><b>- Tᴇᴍᴘᴏʀᴀʀɪʟʏ Mᴜᴛᴇ A Usᴇʀ. Exᴀᴍᴘʟᴇ Tɪᴍᴇ Vᴀʟᴜᴇs: 4ᴍ = 4 Mɪɴᴜᴛᴇs, 3ʜ = 3 Hᴏᴜʀs, 6ᴅ = 6 Dᴀʏs, 5ᴡ = 5 Wᴇᴇᴋs.</b></i>
+• /unban Oʀ /unmute <i><b>- Uɴᴍᴜᴛᴇ A Usᴇʀ & Uɴʙᴀɴ A Usᴇʀ.</b></i>
+
+<i><b>✯ ᴇxᴀᴍᴘʟᴇ :
+- Mᴜᴛᴇ A Usᴇʀ Fᴏʀ Tᴡᴏ Hᴏᴜʀs.</b></i>
+- /tmute <i><b>@Usᴇʀɴᴀᴍᴇ 2ʜ</b></i>
+
+<i><b>Jᴏɪɴ: @Movies4youbackup</b></i> ⚔️"""
     CREATOR_REQUIRED = """❗<b>𝚈𝙾𝚄 𝙷𝙰𝚅𝙴 𝚃𝙾 𝙱𝙴 𝚃𝙷𝙴 𝙶𝚁𝙾𝚄𝙿 𝙲𝚁𝙴𝙰𝚃𝙴𝚁 𝚃𝙾 𝙳𝙾 𝚃𝙷𝙰𝚃.</b>"""
       
     INPUT_REQUIRED = "❗ **𝙰𝚁𝙶𝚄𝙼𝙴𝙽𝚃𝚂 𝚁𝙴𝚀𝚄𝙸𝚁𝙴𝙳**"
