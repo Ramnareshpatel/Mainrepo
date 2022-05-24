@@ -838,8 +838,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴘ-ɢᴇɴ', callback_data='passgen'),
             InlineKeyboardButton('sᴛʏʟɪsʜ ᴛᴇxᴛ', callback_data='font')
             ],[
-            InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
-            ],[
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -893,8 +891,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('sʜᴀᴢᴀᴍ', callback_data='shazam'),
             InlineKeyboardButton('ᴘ-ɢᴇɴ', callback_data='passgen'),
             InlineKeyboardButton('sᴛʏʟɪsʜ ᴛᴇxᴛ', callback_data='font')
-            ],[
-            InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
             ],[
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start')
         ]]
