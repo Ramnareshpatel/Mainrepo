@@ -747,11 +747,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚔️ᴜᴘᴅᴀᴛᴇs', url='https://t.me/RBLunainline'),
-            InlineKeyboardButton('🎸sᴜᴘᴘᴏʀᴛ', url='https://t.me/Night_showers')
+            InlineKeyboardButton('⚔️ ᴜᴘᴅᴀᴛᴇs', url='https://t.me/RBLunainline'),
+            InlineKeyboardButton('🎸 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Night_showers')
             ],[      
-            InlineKeyboardButton('📚ʜᴇʟᴘ', callback_data='commands'),
-            InlineKeyboardButton('📌ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('📚 ʜᴇʟᴘ', callback_data='commands'),
+            InlineKeyboardButton('📌 ᴀʙᴏᴜᴛ', callback_data='about')
             ],[
             InlineKeyboardButton('✗ᴄʟᴏsᴇ✗', callback_data="close_data")
         ]]
@@ -902,9 +902,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('😎ᴅᴇᴠᴇʟᴏᴘᴇʀs', callback_data='dev')
+            InlineKeyboardButton('😎 ᴅᴇᴠᴇʟᴏᴘᴇʀs', callback_data='dev')
             ],[
-            InlineKeyboardButton('🏠ʜᴏᴍᴇ', callback_data='start'),
+            InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('✗ᴄʟᴏsᴇ✗', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1183,7 +1183,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "extra":
         buttons = [[
             InlineKeyboardButton('⌫ ʙᴀᴄᴋ', callback_data='commands'),
-            InlineKeyboardButton('👑ᴀᴅᴍɪɴ', callback_data='admin')
+            InlineKeyboardButton('👑 ᴀᴅᴍɪɴ', callback_data='admin')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -1540,7 +1540,7 @@ async def advantage_spell_chok(msg):
         )
     ] for k, movie in enumerate(movielist)]
     btn.append([InlineKeyboardButton(text="Close", callback_data=f'spolling#{user}#close_spellcheck')])
-    await msg.reply("I couldn't find anything related to that\nDid you mean any one of these?",
+    await msg.reply("<i><b>😓 I Cᴏᴜʟᴅɴ'ᴛ Fɪɴᴅ Aɴʏᴛʜɪɴɢ Tᴇʟᴀᴛᴇᴅ Tᴏ Tʜᴀᴛ</b></i>\n<i><b>Dɪᴅ Yᴏᴜ Mᴇᴀɴ Aɴʏ Oɴᴇ Oғ Tʜᴇsᴇ?</b></i>",
                     reply_markup=InlineKeyboardMarkup(btn))
 
 async def manual_filters(client, message, text=False):
