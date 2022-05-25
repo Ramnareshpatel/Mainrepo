@@ -41,8 +41,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚔️ ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Movies4youBackup'),
-            InlineKeyboardButton('🎸 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Movies_4you')
+            InlineKeyboardButton('💫 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Movies4youBackup'),
+            InlineKeyboardButton('🌿 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Movies_4you')
             ],[      
             InlineKeyboardButton('📚 ʜᴇʟᴘ', callback_data='commands'),
             InlineKeyboardButton('📌 ᴀʙᴏᴜᴛ', callback_data='about')
@@ -84,8 +84,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚔️ ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Movies4youBackup'),
-            InlineKeyboardButton('🎸 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Movies_4you')
+            InlineKeyboardButton('💫 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Movies4youBackup'),
+            InlineKeyboardButton('🌿 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Movies_4you')
             ],[      
             InlineKeyboardButton('📚 ʜᴇʟᴘ', callback_data='commands'),
             InlineKeyboardButton('📌 ᴀʙᴏᴜᴛ', callback_data='about')
