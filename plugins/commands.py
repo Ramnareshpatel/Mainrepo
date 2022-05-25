@@ -47,8 +47,7 @@ async def start(client, message):
             InlineKeyboardButton('❓ ᏟϴᎷᎷᎪΝᎠՏ ❓', callback_data='commands'),
             InlineKeyboardButton('😍 ᎪᏴϴႮͲ 😍', callback_data='about')
             ],[
-            InlineKeyboardButton('🔗 ՏႮᏴՏᏟᎡᏆᏴᎬ 🔗', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA'),
-            InlineKeyboardButton('×͜× ᎷᏆᎡᎡϴᎡ ᏴϴͲ ×͜×', url='https://t.me/Luna_mirror_bot')
+            InlineKeyboardButton('Close', callback_data="close_data")
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)        
         await message.reply_photo(
@@ -88,11 +87,10 @@ async def start(client, message):
             InlineKeyboardButton('🎥 ᏟᎻᎪΝΝᎬᏞ 🎥', url='https://t.me/RBLunainline'),
             InlineKeyboardButton('🎀 ᎷϴᏙᏆᎬ-ᏀᎡϴႮᏢ 🎀', url='https://t.me/Night_showers')
             ],[      
-            InlineKeyboardButton('❓ ᏟϴᎷᎷᎪᎠՏ ❓', callback_data='commands'),
+            InlineKeyboardButton('❓ ᏟϴᎷᎷᎪΝᎠՏ ❓', callback_data='commands'),
             InlineKeyboardButton('😍 ᎪᏴϴႮͲ 😍', callback_data='about')
             ],[
-            InlineKeyboardButton('🔗 ՏႮᏴՏᏟᎡᏆᏴᎬ 🔗', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA'),
-            InlineKeyboardButton('×͜× ᎷᏆᎡᎡϴᎡ ᏴϴͲ ×͜×', url='https://t.me/Luna_mirror_bot')
+            InlineKeyboardButton('Close', callback_data="close_data")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
