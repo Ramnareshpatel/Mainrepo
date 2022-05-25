@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃', url=f"https://t.me/rb_luna_bot")
+                InlineKeybhttp://t.me/Melody_AutoFilterBothttp://t.me/Melody_AutoFilterBot")
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -41,11 +41,11 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚔️ᴜᴘᴅᴀᴛᴇs', url='https://t.me/RBLunainline'),
-            InlineKeyboardButton('🎸sᴜᴘᴘᴏʀᴛ', url='https://t.me/Night_showers')
+            InlineKeyboardButton('⚔️ ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Movies4youBackup'),
+            InlineKeyboardButton('🎸 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Movies_4you')
             ],[      
-            InlineKeyboardButton('📚ʜᴇʟᴘ', callback_data='commands'),
-            InlineKeyboardButton('📌ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('📚 ʜᴇʟᴘ', callback_data='commands'),
+            InlineKeyboardButton('📌 ᴀʙᴏᴜᴛ', callback_data='about')
             ],[
             InlineKeyboardButton('✗ᴄʟᴏsᴇ✗', callback_data="close_data")
         ]]         
@@ -61,21 +61,21 @@ async def start(client, message):
         try:
             invite_link = await client.create_chat_invite_link(int(AUTH_CHANNEL))
         except ChatAdminRequired:
-            logger.error("𝙼𝙰𝙺𝙴 𝚂𝚄𝚁𝙴 𝙱𝙾𝚃 𝙸𝚂 𝙰𝙳𝙼𝙸𝙽 𝙸𝙽 𝙵𝙾𝚁𝙲𝙴𝚂𝚄𝙱 𝙲𝙷𝙰𝙽𝙽𝙴𝙻")
+            logger.error("Mᴀᴋᴇ Sᴜʀᴇ Bᴏᴛ Is Aᴅᴍɪɴ Iɴ Fᴏʀᴄᴇsᴜʙ Cʜᴀɴɴᴇʟ")
             return
         btn = [
             [
                 InlineKeyboardButton(
-                    "🎗️ᎫϴᏆΝ ᏀᎡϴႮᏢ🎗️", url=invite_link.invite_link
+                    "⚔️ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ", url=invite_link.invite_link
                 )
             ]
         ]
 
         if message.command[1] != "subscribe":
-            btn.append([InlineKeyboardButton("🔁 𝐓𝐫𝐲 𝐀𝐠𝐚𝐢𝐧 🔁", callback_data=f"checksub#{message.command[1]}")])
+            btn.append([InlineKeyboardButton("🔁 ᴛʀʏ ᴀɢᴀɪɴ!", callback_data=f"checksub#{message.command[1]}")])
         await client.send_message(
             chat_id=message.from_user.id,
-            text="**ʕ •ᴥ•ʔ𝐉𝐎𝐈𝐍 𝐌𝐘 𝐆𝐑𝐎𝐔𝐏 𝐓𝐎 𝐔𝐒𝐄 𝐌𝐘 𝐁𝐎𝐓😉**",
+            text="<i>**Hᴇʏ...🙋‍♂ Pʟᴇᴀsᴇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ Tᴏ Usᴇ Tʜɪs Bᴏᴛ! ❤️‍🔥**</i>",
             reply_markup=InlineKeyboardMarkup(btn),
             parse_mode="markdown"
             )
@@ -84,11 +84,11 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚔️ᴜᴘᴅᴀᴛᴇs', url='https://t.me/RBLunainline'),
-            InlineKeyboardButton('🎸sᴜᴘᴘᴏʀᴛ', url='https://t.me/Night_showers')
+            InlineKeyboardButton('⚔️ ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Movies4youBackup'),
+            InlineKeyboardButton('🎸 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Movies_4you')
             ],[      
-            InlineKeyboardButton('📚ʜᴇʟᴘ', callback_data='commands'),
-            InlineKeyboardButton('📌ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('📚 ʜᴇʟᴘ', callback_data='commands'),
+            InlineKeyboardButton('📌 ᴀʙᴏᴜᴛ', callback_data='about')
             ],[
             InlineKeyboardButton('✗ᴄʟᴏsᴇ✗', callback_data="close_data")
         ]]
@@ -107,7 +107,7 @@ async def start(client, message):
         file_id = data
         pre = ""
     if data.split("-", 1)[0] == "BATCH":
-        sts = await message.reply("<b>𝙰𝙲𝙲𝙴𝚂𝚂𝙸𝙽𝙶 𝙵𝙸𝙻𝙴𝚂.../</b>")
+        sts = await message.reply("<i><b>Aᴄᴄᴇssɪɴɢ Fɪʟᴇs...</b></i>")
         file_id = data.split("-", 1)[1]
         msgs = BATCH_FILES.get(file_id)
         if not msgs:
@@ -155,7 +155,7 @@ async def start(client, message):
         await sts.delete()
         return
     elif data.split("-", 1)[0] == "DSTORE":
-        sts = await message.reply("<b>𝙰𝙲𝙲𝙴𝚂𝚂𝙸𝙽𝙶 𝙵𝙸𝙻𝙴𝚂.../</b>")
+        sts = await message.reply("<i><b>Aᴄᴄᴇssɪɴɢ Fɪʟᴇs...</b></i>")
         b_string = data.split("-", 1)[1]
         decoded = (base64.urlsafe_b64decode(b_string + "=" * (-len(b_string) % 4))).decode("ascii")
         try:
