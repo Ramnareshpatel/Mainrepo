@@ -245,7 +245,7 @@ async def advantage_spoll_choker(bot, query):
             k = (movie, files, offset, total_results)
             await auto_filter(bot, query, k)
         else:
-            k = await query.message.edit('Tʜɪs Mᴏᴠɪᴇ Is Nᴏᴛ Aᴅᴅᴇᴅ Tᴏ Mʏ Dᴀᴛᴀʙᴀsᴇ 😇')
+            k = await query.message.edit('<i><b>Tʜɪs Mᴏᴠɪᴇ Is Nᴏᴛ Aᴅᴅᴇᴅ Tᴏ Mʏ Dᴀᴛᴀʙᴀsᴇ 😇</b></i>')
             await asyncio.sleep(10)
             await k.delete()
 
@@ -329,11 +329,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ])
 
         await query.message.edit_text(
-            f"ᏀᎡϴႮᏢ ΝᎪᎷᎬ :- **{title}**\n𝙶𝚁𝙾𝚄𝙿 𝙸𝙳 :- `{group_id}`",
+            f"<i><b>Gʀᴏᴜᴘ Nᴀᴍᴇ :-</b></i> <i>**{title}**</i>\<i><b>Gʀᴏᴜᴘ Iᴅ :-</b></i> `{group_id}`",
             reply_markup=keyboard,
             parse_mode="md"
         )
-        return await query.answer('ᏢᏞᎬᎪՏᎬ ՏᎻᎪᎡᎬ ᎪΝᎠ ՏႮᏢᏢϴᎡͲ')
+        return await query.answer('Pʟᴇᴀsᴇ Jᴏɪɴ Aɴᴅ Sʜᴀʀᴇ')
     elif "connectcb" in query.data:
         await query.answer()
 
@@ -354,7 +354,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             )
         else:
             await query.message.edit_text('ՏϴᎷᎬ ᎬᎡᎡϴᎡ ϴᏟᏟႮᎡᎬᎠ!!', parse_mode="md")
-        return await query.answer('ᏢᏞᎬᎪՏᎬ ՏᎻᎪᎡᎬ ᎪΝᎠ ՏႮᏢᏢϴᎡͲ')
+        return await query.answer('Pʟᴇᴀsᴇ Jᴏɪɴ Aɴᴅ Sʜᴀʀᴇ')
     elif "disconnect" in query.data:
         await query.answer()
 
@@ -395,7 +395,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 f"ՏϴᎷᎬ ᎬᎡᎡϴᎡ ϴᏟᏟႮᎡᎬᎠ!!",
                 parse_mode="md"
             )
-        return await query.answer('ᏢᏞᎬᎪՏᎬ ՏᎻᎪᎡᎬ ᎪΝᎠ ՏႮᏢᏢϴᎡͲ')
+        return await query.answer('Pʟᴇᴀsᴇ Jᴏɪɴ Aɴᴅ Sʜᴀʀᴇ')
     elif query.data == "backcb":
         await query.answer()
 
@@ -406,7 +406,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             await query.message.edit_text(
                 "ͲᎻᎬᎡᎬ ᎪᎡᎬ Νϴ ᎪᏟͲᏆᏙᎬ ᏟϴΝΝᎬᏟͲᏆϴΝՏ!! ᏟϴΝΝᎬᏟᏟͲ Ͳϴ ՏϴᎷᎬ ᏀᎡϴႮᏢՏ ҒᏆᎡՏͲ.",
             )
-            return await query.answer('ᏢᏞᎬᎪՏᎬ ՏᎻᎪᎡᎬ ᎪΝᎠ ՏႮᏢᏢϴᎡͲ')
+            return await query.answer('Pʟᴇᴀsᴇ Jᴏɪɴ Aɴᴅ Sʜᴀʀᴇ')
         buttons = []
         for groupid in groupids:
             try:
