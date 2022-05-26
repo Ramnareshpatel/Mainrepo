@@ -8,9 +8,9 @@ from info import COMMAND_HAND_LER
 from plugins.helper_functions.cust_p_filters import f_onw_fliter
 
 # -- Constants -- #
-ALIVE = "**🙂 Yᴏᴜ Aʀᴇ Nᴏᴛ Dᴇᴀᴅ.Yᴏᴜ Aʀᴇ Sᴛɪʟʟ Hᴇʀᴇ.Yᴏᴜ Hᴀᴠᴇ Nᴏ Lᴏᴠᴇ Fᴏʀ Mᴇ Nᴏᴡ Oᴋᴀʏ ❤️... Yᴏᴜ'ʀᴇ Nᴏᴛ Cʜᴀɴɢᴇᴅ Lɪᴋᴇ Yᴏᴜ Usᴇᴅ Tᴏ Bᴇ...Jᴜsᴛ Sᴛᴀʀᴛ 🥰 /start Oɴᴇ Aᴛ A Tɪᴍᴇ...**"
-REPO = "<b>Tʜɪs Nᴏᴛᴇ A Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏɪᴇᴄᴛ 😋 </b>"
-CHANNEL = "<b>😇Mᴏᴠɪᴇs𝟺ʏᴏᴜBᴀᴄᴋᴜᴘ</b> ›› https://t.me/Movies4youBackup\n\n<b>🥰 Mᴏᴠɪᴇs 4 ʏᴏᴜ</b> ›› https://t.me/Movies_4you\n\n<b>😎 Mʏ Fᴀᴛʜᴇʀ</b> ›› https://t.me/KingOf_univers"
+ALIVE = "<i>**🙂 Yᴏᴜ Aʀᴇ Nᴏᴛ Dᴇᴀᴅ.Yᴏᴜ Aʀᴇ Sᴛɪʟʟ Hᴇʀᴇ.Yᴏᴜ Hᴀᴠᴇ Nᴏ Lᴏᴠᴇ Fᴏʀ Mᴇ Nᴏᴡ Oᴋᴀʏ ❤️... Yᴏᴜ'ʀᴇ Nᴏᴛ Cʜᴀɴɢᴇᴅ Lɪᴋᴇ Yᴏᴜ Usᴇᴅ Tᴏ Bᴇ...Jᴜsᴛ Sᴛᴀʀᴛ**</i> 🥰 /start <i><b>Oɴᴇ Aᴛ A Tɪᴍᴇ...</b></i>"
+REPO = "<i><b>Tʜɪs Nᴏᴛᴇ A Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏɪᴇᴄᴛ 😋 </b></i>"
+CHANNEL = "<i><b>🥰 Uᴘᴅᴀᴛᴇs ›› [Mᴏᴠɪᴇs𝟺ʏᴏᴜBᴀᴄᴋᴜᴘ](https://t.me/Movies4youBackup)</b></i>\n\n<i><b>😇 Gʀᴏᴜᴘ ›› [Mᴏᴠɪᴇs 4 ʏᴏᴜ](https://t.me/Movies_4you)</b></i>\n\n<i><b>😎 Mʏ Fᴀᴛʜᴇʀ ›› [會؄𝚂𝚄𝚁𝙰𝙹؄會](https://t.me/KingOf_univers)</b></i>"
 JOKER = "<b>Mᴇʟᴏᴅʏ ›› http://t.me/Melody_AutoFilterBot</b>"
 # -- Constants End -- #
 
