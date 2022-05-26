@@ -14,11 +14,11 @@ from plugins.helper_functions.get_file_id import get_file_id
 async def telegraph(client, message):
     replied = message.reply_to_message
     if not replied:
-        await message.reply_text("Rᴇᴘʟʏ Tᴏ A Pʜᴏᴛᴏ  Oʀ Vɪᴅᴇᴏ Uɴᴅᴇʀ 𝟻Mʙ.")
+        await message.reply_text("<i><b>Rᴇᴘʟʏ Tᴏ A Pʜᴏᴛᴏ  Oʀ Vɪᴅᴇᴏ Uɴᴅᴇʀ 𝟻Mʙ.</b></i>")
         return
     file_info = get_file_id(replied)
     if not file_info:
-        await message.reply_text("Not supported!")
+        await message.reply_text("<i><b>Nᴏᴛ Sᴜᴘᴘᴏʀᴛᴇᴅ!</b></i>")
         return
     _t = os.path.join(
         TMP_DOWNLOAD_DIRECTORY,
