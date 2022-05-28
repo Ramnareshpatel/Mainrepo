@@ -110,7 +110,7 @@ async def addfilter(client, message):
     await add_filter(grp_id, text, reply_text, btn, fileid, alert)
 
     await message.reply_text(
-        f"<i><b>Fɪʟᴛᴇʀ Fᴏʀ</b></i>  `{text}`  </b></i>Aᴅᴅᴇᴅ Iɴ</b></i>  <i>**{title}**</i>",
+        f"Fɪʟᴛᴇʀ Fᴏʀ `{text}` Aᴅᴅᴇᴅ Iɴ **{title}**",
         quote=True,
         parse_mode="md"
     )
