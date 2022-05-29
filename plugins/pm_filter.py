@@ -519,7 +519,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],[
                 InlineKeyboardButton(text="sᴛɪᴄᴋᴇʀ", callback_data="rmbgsticker"),
                 ],[
-                InlineKeyboardButton('⌫ ʙᴀᴄᴋ', callback_data='photo')
+                InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='photo')
              ]]
         ),)
     elif query.data == "stick":
@@ -539,7 +539,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         )
                     ],
                     [
-                        InlineKeyboardButton('⌫ ʙᴀᴄᴋ', callback_data='photo')
+                        InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='photo')
                     ],
                 ]
             ),
@@ -556,7 +556,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     [InlineKeyboardButton(text="270", callback_data="270")],
                     ],
                     [
-                        InlineKeyboardButton('⌫ ʙᴀᴄᴋ', callback_data='photo')
+                        InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='photo')
                 ]
             ),
         )
@@ -574,7 +574,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         ),
                     ],
                     [
-                        InlineKeyboardButton('⌫ ʙᴀᴄᴋ', callback_data='photo')
+                        InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='photo')
                     ]
                 ]
             ),
@@ -594,7 +594,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         InlineKeyboardButton(text="5", callback_data="normalglitch5"),
                     ],
                     [
-                        InlineKeyboardButton('⌫ ʙᴀᴄᴋ', callback_data='glitch')
+                        InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='glitch')
                     ],
                 ]
             ),
@@ -614,7 +614,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         InlineKeyboardButton(text="5", callback_data="scanlineglitch5"),
                     ],
                     [
-                        InlineKeyboardButton('⌫ ʙᴀᴄᴋ', callback_data='glitch')
+                        InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='glitch')
                     ],
                 ]
             ),
@@ -631,7 +631,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     [InlineKeyboardButton(text="ɢᴀᴜssɪᴀɴ", callback_data="gas")],
                     ],
                     [
-                        InlineKeyboardButton('⌫ ʙᴀᴄᴋ', callback_data='photo')
+                        InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='photo')
                 ]
             ),
         )
@@ -645,7 +645,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         InlineKeyboardButton(text="ᴡɪᴛʜᴏᴜᴛ ʙɢ", callback_data="circlewithoutbg"),
                     ],
                     [
-                        InlineKeyboardButton('⌫ ʙᴀᴄᴋ', callback_data='photo')
+                        InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='photo')
                     ]
                 ]
             ),
@@ -664,7 +664,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         InlineKeyboardButton(text="ʙʟᴜᴇ", callback_data="blue"),
                     ],
                     [
-                        InlineKeyboardButton('⌫ ʙᴀᴄᴋ', callback_data='photo')   
+                        InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='photo')   
                     ],
                 ]
             ),
