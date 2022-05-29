@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('ᴘʀɪᴠᴀᴛᴇ ʙᴏᴛ', url=f"http://t.me/Melody_AutoFilterBot")
+                InlineKeyboardButton('Pʀɪᴠᴀᴛᴇ ʙᴏᴛ', url=f"http://t.me/Melody_AutoFilterBot")
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -39,15 +39,15 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💫 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Movies4youBackup'),
-            InlineKeyboardButton('🌿 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Movies_4you')
+            InlineKeyboardButton('💫 Uᴘᴅᴀᴛᴇs', url='https://t.me/Movies4youBackup'),
+            InlineKeyboardButton('🌿 Sᴜᴘᴘᴏʀᴛ', url='https://t.me/Movies_4you')
             ],[      
-            InlineKeyboardButton('📚 ʜᴇʟᴘ', callback_data='commands'),
-            InlineKeyboardButton('📌 ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('📚 Hᴇʟᴘ', callback_data='commands'),
+            InlineKeyboardButton('📌 Aʙᴏᴜᴛ', callback_data='about')
             ],[
-            InlineKeyboardButton('✗ᴄʟᴏsᴇ✗', callback_data="close_data")
+            InlineKeyboardButton('Cʟᴏsᴇ ✗', callback_data="close_data")
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)        
         await message.reply_photo(
@@ -66,13 +66,13 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "⚔️ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ", url=invite_link.invite_link
+                    "⚔️ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ", url=invite_link.invite_link
                 )
             ]
         ]
 
         if message.command[1] != "subscribe":
-            btn.append([InlineKeyboardButton("🔁 ᴛʀʏ ᴀɢᴀɪɴ!", callback_data=f"checksub#{message.command[1]}")])
+            btn.append([InlineKeyboardButton("🔁 Tʀʏ Aɢᴀɪɴ!", callback_data=f"checksub#{message.command[1]}")])
         await client.send_message(
             chat_id=message.from_user.id,
             text="<i>**Hᴇʏ...🙋‍♂ Pʟᴇᴀsᴇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ Tᴏ Usᴇ Tʜɪs Bᴏᴛ! ❤️‍🔥**</i>",
@@ -82,15 +82,15 @@ async def start(client, message):
         return
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💫 ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Movies4youBackup'),
-            InlineKeyboardButton('🌿 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Movies_4you')
+            InlineKeyboardButton('💫 Uᴘᴅᴀᴛᴇs', url='https://t.me/Movies4youBackup'),
+            InlineKeyboardButton('🌿 Sᴜᴘᴘᴏʀᴛ', url='https://t.me/Movies_4you')
             ],[      
-            InlineKeyboardButton('📚 ʜᴇʟᴘ', callback_data='commands'),
-            InlineKeyboardButton('📌 ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('📚 Hᴇʟᴘ', callback_data='commands'),
+            InlineKeyboardButton('📌 Aʙᴏᴜᴛ', callback_data='about')
             ],[
-            InlineKeyboardButton('✗ᴄʟᴏsᴇ✗', callback_data="close_data")
+            InlineKeyboardButton('Cʟᴏsᴇ ✗', callback_data="close_data")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
