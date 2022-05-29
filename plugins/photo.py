@@ -36,7 +36,7 @@ async def photo(client: Client, message: Message):
                         InlineKeyboardButton(text="ʀᴇᴍᴏᴠᴇ-ʙɢ", callback_data="removebg"),
                     ],
                     [
-                        InlineKeyboardButton(text="✗ᴄʟᴏsᴇ✗", callback_data="close_data"),
+                        InlineKeyboardButton(text="Cʟᴏsᴇ ✗", callback_data="close_data"),
                     ],
                 ]
             ),
