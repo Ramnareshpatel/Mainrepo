@@ -815,6 +815,17 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴊsᴏɴ', callback_data='son'),
             InlineKeyboardButton('ᴛᴛs', callback_data='ttss')
             ],[
+            InlineKeyboardButton('‹‹ 𝙱𝙰𝙲𝙺', callback_data='start'),
+            InlineKeyboardButton('𝙽𝙴𝚇𝚃 ››', callback_data='eth')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)       
+        await query.message.edit_text(                     
+            text=script.HELP_TXT.format(query.from_user.mention),
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
+    elif query.data == "eth":
+        buttons = [[ 
             InlineKeyboardButton('ᴘᴜʀɢᴇ', callback_data='purges'),
             InlineKeyboardButton('ᴘɪɴɢ', callback_data='pings'),
             InlineKeyboardButton('ᴛᴇʟᴇɢʀᴀᴘʜ', callback_data='tele')
@@ -831,6 +842,17 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴀᴜᴅɪᴏʙᴏᴏᴋ', callback_data='abook'),
             InlineKeyboardButton('ᴜʀʟ-sʜᴏʀᴛ', callback_data='urlshort')
             ],[
+            InlineKeyboardButton('‹‹ 𝙱𝙰𝙲𝙺', callback_data='commands'),
+            InlineKeyboardButton('𝙽𝙴𝚇𝚃 ››', callback_data='prop')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)       
+        await query.message.edit_text(                     
+            text=script.HELP_TXT.format(query.from_user.mention),
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )  
+    elif query.data == "prop":
+        buttons = [[
             InlineKeyboardButton('ɢ-ᴛʀᴀɴs', callback_data='gtrans'),
             InlineKeyboardButton('ꜰɪʟᴇ-sᴛᴏʀᴇ', callback_data='newdata'),
             InlineKeyboardButton('sᴛᴀᴛᴜs', callback_data='stats')
@@ -843,7 +865,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴘ-ɢᴇɴ', callback_data='passgen'),
             InlineKeyboardButton('sᴛʏʟɪsʜ ᴛᴇxᴛ', callback_data='font')
             ],[
-            InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='start')
+            InlineKeyboardButton('‹‹ 𝙱𝙰𝙲𝙺', callback_data='eth'),
+            InlineKeyboardButton('𝙽𝙴𝚇𝚃 ››', callback_data='eth')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
