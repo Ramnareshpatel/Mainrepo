@@ -815,8 +815,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴊsᴏɴ', callback_data='son'),
             InlineKeyboardButton('ᴛᴛs', callback_data='ttss')
             ],[
-            InlineKeyboardButton('‹‹ 𝙱𝙰𝙲𝙺', callback_data='start'),
-            InlineKeyboardButton('𝙽𝙴𝚇𝚃 ››', callback_data='eth')
+            InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='start'),
+            InlineKeyboardButton('Nᴇxᴛ »', callback_data='eth')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -842,8 +842,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴀᴜᴅɪᴏʙᴏᴏᴋ', callback_data='abook'),
             InlineKeyboardButton('ᴜʀʟ-sʜᴏʀᴛ', callback_data='urlshort')
             ],[
-            InlineKeyboardButton('‹‹ 𝙱𝙰𝙲𝙺', callback_data='commands'),
-            InlineKeyboardButton('𝙽𝙴𝚇𝚃 ››', callback_data='prop')
+            InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='commands'),
+            InlineKeyboardButton('Nᴇxᴛ »', callback_data='prop')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -865,8 +865,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴘ-ɢᴇɴ', callback_data='passgen'),
             InlineKeyboardButton('sᴛʏʟɪsʜ ᴛᴇxᴛ', callback_data='font')
             ],[
-            InlineKeyboardButton('‹‹ 𝙱𝙰𝙲𝙺', callback_data='eth'),
-            InlineKeyboardButton('Home ››', callback_data='start')
+            InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='eth'),
+            InlineKeyboardButton('🏠 Hᴏᴍᴇ', callback_data='start')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
