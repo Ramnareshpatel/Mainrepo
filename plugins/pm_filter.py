@@ -876,61 +876,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "commandss":
         buttons = [[
-            InlineKeyboardButton('ꜰɪʟᴛᴇʀ', callback_data='manuelfilter'),
-            InlineKeyboardButton('ᴀᴜᴛᴏ', callback_data='autofilter'),
-            InlineKeyboardButton('ᴄᴏɴɴᴇᴄᴛ', callback_data='coct')
-            ],[
-            InlineKeyboardButton('ʏᴛ-sᴇᴀʀᴄʜ', callback_data='ytsearch'),
-            InlineKeyboardButton('ᴇxᴛʀᴀ', callback_data='extra'),
-            InlineKeyboardButton("ᴠɪᴅᴇᴏ", callback_data='video')
-            ],[
-            InlineKeyboardButton('ᴘɪɴ', callback_data='pin'), 
-            InlineKeyboardButton('ᴘᴀsᴛᴇ', callback_data='pastes'),
-            InlineKeyboardButton("ɪᴍᴀɢᴇ", callback_data='image')
-            ],[
-            InlineKeyboardButton('ɢᴀᴍᴇs', callback_data='fun'), 
-            InlineKeyboardButton('ᴊsᴏɴ', callback_data='son'),
-            InlineKeyboardButton('ᴛᴛs', callback_data='ttss')
-            ],[
-            InlineKeyboardButton('ᴘᴜʀɢᴇ', callback_data='purges'),
-            InlineKeyboardButton('ᴘɪɴɢ', callback_data='pings'),
-            InlineKeyboardButton('ᴛᴇʟᴇɢʀᴀᴘʜ', callback_data='tele')
-            ],[
-            InlineKeyboardButton('ᴡʜᴏɪs', callback_data='whois'),
-            InlineKeyboardButton('ᴍᴜᴛᴇ', callback_data='restric'),
-            InlineKeyboardButton('ᴋɪᴄᴋ', callback_data='zombies')
-            ],[
-            InlineKeyboardButton('ʀᴇᴘᴏʀᴛ', callback_data='report'),
-            InlineKeyboardButton('ʏᴛ-ᴛʜᴜᴍʙ', callback_data='ytthumb'),
-            InlineKeyboardButton('sᴛɪᴄᴋᴇʀ ɪᴅ', callback_data='sticker')
-            ],[
-            InlineKeyboardButton('ᴄᴏᴠɪᴅ', callback_data='corona'),
-            InlineKeyboardButton('ᴀᴜᴅɪᴏʙᴏᴏᴋ', callback_data='abook'),
-            InlineKeyboardButton('ᴜʀʟ-sʜᴏʀᴛ', callback_data='urlshort')
-            ],[
-            InlineKeyboardButton('ɢ-ᴛʀᴀɴs', callback_data='gtrans'),
-            InlineKeyboardButton('ꜰɪʟᴇ-sᴛᴏʀᴇ', callback_data='newdata'),
-            InlineKeyboardButton('sᴛᴀᴛᴜs', callback_data='stats')
-            ],[
-            InlineKeyboardButton('ᴡɪᴋɪᴘᴇᴅɪᴀ', callback_data='wiki'),
-            InlineKeyboardButton('ɪᴘ-ᴀᴅᴅʀᴇss', callback_data='ipaddress'),
-            InlineKeyboardButton('ʟʏʀɪᴄs', callback_data='lyric')
-            ],[
-            InlineKeyboardButton('sʜᴀᴢᴀᴍ', callback_data='shazam'),
-            InlineKeyboardButton('ᴘ-ɢᴇɴ', callback_data='passgen'),
-            InlineKeyboardButton('sᴛʏʟɪsʜ ᴛᴇxᴛ', callback_data='font')
-            ],[
-            InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='start')
-        ]]
-        reply_markup = InlineKeyboardMarkup(buttons)
-        await query.answer("𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝗍𝗈 𝗆𝗒 𝖧𝖾𝗅𝗉 𝗆𝗈𝖽𝗎𝗅𝖾")
-        await query.message.edit_text(
-            text=script.COMMANDS_TXT.format(query.from_user.mention),
-            reply_markup=reply_markup,
-            parse_mode='html'
-        )
-    elif query.data == "about":
-        buttons= [[
             InlineKeyboardButton('😎 Dᴇᴠᴇʟᴏᴘᴇʀs', callback_data='dev')
             ],[
             InlineKeyboardButton('🏠 Hᴏᴍᴇ', callback_data='start'),
