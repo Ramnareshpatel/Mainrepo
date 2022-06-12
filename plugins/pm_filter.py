@@ -1065,7 +1065,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "pings":
         buttons = [[
-            InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='commands')
+            InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='eth')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -1263,7 +1263,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "stats":
         buttons = [[
-            InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='commands'),
+            InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='prop'),
             InlineKeyboardButton('Rᴇꜰʀᴇsʜ ⧖', callback_data='rfrsh')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1282,7 +1282,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "rfrsh":
         await query.answer("Fetching MongoDb DataBase")
         buttons = [[
-            InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='commands'),
+            InlineKeyboardButton('« Bᴀᴄᴋ', callback_data='prop'),
             InlineKeyboardButton('Rᴇꜰʀᴇsʜ ⧖', callback_data='rfrsh')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
