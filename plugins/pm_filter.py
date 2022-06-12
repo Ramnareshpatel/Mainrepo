@@ -874,7 +874,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode='html'
         )
-    elif query.data == "commandss":
+    elif query.data == "about":
         buttons = [[
             InlineKeyboardButton('😎 Dᴇᴠᴇʟᴏᴘᴇʀs', callback_data='dev')
             ],[
