@@ -50,11 +50,11 @@ async def start(client, message):
             InlineKeyboardButton('Cʟᴏsᴇ ✗', callback_data="close_data")
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)
-        await message.reply_chat_action("SURAJ")
+        await message.reply_chat_action("typing")
         m=await message.reply_sticker("CAACAgUAAxkBAAIFk2KxLMlsctWYrIyv5DJvDNzI35wzAAI4AAPhAAEBG6Cw0zfIfIqtHgQ") 
         await asyncio.sleep(2)
         await m.delete()
-        await message.reply_chat_action("SURAJ")
+        await message.reply_chat_action("typing")
         await message.reply_photo(
             photo=random.choice(PICS),
             caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
