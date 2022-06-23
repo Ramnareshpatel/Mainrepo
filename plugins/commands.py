@@ -240,6 +240,15 @@ async def start(client, message):
             f_caption=f_caption
     if f_caption is None:
         f_caption = f"{files.file_name}"
+    buttons = [
+            [
+                InlineKeyboardButton('⭕️ ʟɢ ʙᴏᴛ ꜱᴏᴄɪᴇᴛʏ ', url='https://t.me/lgbots'),
+                InlineKeyboardButton('ʟɢ ʙᴏᴛꜱ ʀᴇᴘᴏ ⭕️', url='https://t.me/logi_channel')
+            ],
+            [
+                InlineKeyboardButton('💖 ᴀʙᴏᴜᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ 💖', url=f'https://t.me/aboutlogesh')
+            ]
+            ]
     await client.send_cached_media(
         chat_id=message.from_user.id,
         file_id=file_id,
