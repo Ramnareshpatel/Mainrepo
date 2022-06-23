@@ -1471,7 +1471,7 @@ async def auto_filter(client, msg, spoll=False):
             **locals()
         )
     else:
-        cap = f"<i><b>😇 Sᴇᴀʀᴄʜ Rᴇsᴜʟᴛs Fᴏʀ {query}'s Qᴜᴇʀʏ {message.from_user.mention} </b></i>"
+        cap = f"<b>🎬 ᴛɪᴛʟᴇ:</b> {search}\n</b>\n<b><a href='https://t.me/lgmoviebot'>© ʟɢ ᴍᴏᴠɪᴇ ʙᴏᴛ </a></b>\n\n<b>✍️ Note:</b> <s>ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏ-ᴅᴇʟᴇᴛᴇᴅ ᴀꜰᴛᴇʀ 10 ʜᴏᴜʀꜱ ᴛᴏ ᴀᴠᴏɪᴅ ᴄᴏᴘʏʀɪɢʜᴛ ɪꜱꜱᴜᴇꜱ ⏰.</s>"
     if imdb and imdb.get('poster'):
         try:
             hehe = await message.reply_photo(photo=imdb.get('poster'), caption=cap, reply_markup=InlineKeyboardMarkup(btn))
